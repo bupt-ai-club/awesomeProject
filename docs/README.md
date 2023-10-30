@@ -49,3 +49,9 @@
 | 名字 |   地址 | 简介 | 
 | ---- |  ---- | ---- |  
 |  月之暗面  |    [link](https://kimi.moonshot.cn/)  |  [awesomeProject第一期](./docs/contents/20231023-20231-29.md)    |
+
+
+
+## 公众号
+
+![QR](../images/QR.png)

@@ -19,5 +19,8 @@ docsify serve ./docs
 ```
 
 ## 详情
-[READMEME](./docs/README.md)
+[README](./docs/README.md)
 
+## 公众号
+
+![QR](./images/QR.png)
