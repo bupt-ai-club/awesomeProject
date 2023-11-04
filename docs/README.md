@@ -42,7 +42,7 @@
 |   GATE|    [link](https://github.com/alextamkin/generative-elicitation )  |  [awesomeProject第2期](contents/20231030-20231105.md)    |
 |   langeval|    [link](https://github.com/ninehills/langeval )  |  [awesomeProject第2期](contents/20231030-20231105.md)    |
 |   LLM-Agent-Paper-List|    [link](https://github.com/WooooDyy/LLM-Agent-Paper-List )  |  [awesomeProject第2期](contents/20231030-20231105.md)    |
-
+|  litellm|    [link](https://github.com/BerriAI/litellm)  |  [awesomeProject第2期](contents/20231030-20231105.md)    |
 
 
 ### Stable Diffusion
