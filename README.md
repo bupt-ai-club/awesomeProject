@@ -1,4 +1,4 @@
-# awesomeProject
+# Awesome Project
 
 记录有意思的项目，形式不限，并且每周会在公众号做一次汇总和分享
 
@@ -19,7 +19,7 @@ docsify serve ./docs
 ```
 
 ## 详情
-[README](./docs/README.md)
+[详情](./docs/README.md)
 
 ## 公众号
 

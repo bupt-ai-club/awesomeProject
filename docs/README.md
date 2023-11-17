@@ -1,4 +1,4 @@
-# awesomeProject
+# Awesome Project
 
 记录有意思的项目，形式不限，并且每周会在公众号做一次汇总和分享
 
@@ -8,6 +8,7 @@
 - [awesomeProject第1期](contents/20231023-20231029.md)
 - [awesomeProject第2期](contents/20231030-20231105.md)
 - [awesomeProject第3期](contents/20231106-20231112.md)
+- [awesomeProject第4期](contents/20231113-20231119.md)
 
 ## 汇总
 
@@ -30,6 +31,10 @@
 | 生成式AI|    [link](https://github.com/microsoft/generative-ai-for-beginners)  |  [awesomeProject第2期](contents/20231030-20231105.md)    |
 |   Llama2 入门指南|    [link](https://ai.meta.com/llama/get-started)  |  [awesomeProject第2期](contents/20231030-20231105.md)    |
 | ChatGPT 正在产生心智吗 |    [link](https://www.bilibili.com/video/BV1uu4y1m7ak)  |  [awesomeProject第3期](contents/20231106-20231112.md) |
+| Generative AI with Large Language Models |    [link](https://www.coursera.org/learn/generative-ai-with-llms)  |  [awesomeProject第4期](contents/20231113-20231119.md) |
+| LLM 应用开发实践笔记 |    [link](https://github.com/morsoli/llm-books)  |  [awesomeProject第4期](contents/20231113-20231119.md) |
+| enerative AI Learning Path |    [link](https://cloudskillsboost.google/journeys/118)  |  [awesomeProject第4期](contents/20231113-20231119.md) |
+|11-667: Large Language Models Methods and Application  |    [link](https://cmu-llms.org)  |  [awesomeProject第4期](contents/20231113-20231119.md) |
 
 
 
@@ -67,6 +72,10 @@
 |  月之暗面  |    [link](https://kimi.moonshot.cn/)  |  [awesomeProject第1期](contents/20231030-20231105.md)    |
 |  文本转语音  |    [link](https://huggingface.co/spaces/ysharma/OpenAI_TTS_New)  |  [awesomeProject第3期](contents/20231106-20231112.md) |
 | 完蛋！我被 LLM 包围了！ |    [link](https://modelscope.cn/studios/LLMRiddles/LLMRiddles/summary )  |  [awesomeProject第3期](contents/20231106-20231112.md) |
+| GPTs Works |    [link](https://github.com/all-in-aigc/gpts-works)  |  [awesomeProject第4期](contents/20231113-20231119.md) |
+| Awesome GPTs |    [link](https://github.com/lxfater/Awesome-GPTs)  |  [awesomeProject第4期](contents/20231113-20231119.md) |
+| OpenCopilot |    [link](https://github.com/openchatai/OpenCopilot)  |  [awesomeProject第4期](contents/20231113-20231119.md) |
+| EmotiVoice易魔声 😊: 多音色提示控制TTS |    [link](https://github.com/netease-youdao/emotivoice)  |  [awesomeProject第4期](contents/20231113-20231119.md) |
 
 ### 音频
 
