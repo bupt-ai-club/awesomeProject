@@ -9,6 +9,7 @@
 - [awesomeProject第2期](contents/20231030-20231105.md)
 - [awesomeProject第3期](contents/20231106-20231112.md)
 - [awesomeProject第4期](contents/20231113-20231119.md)
+- [awesomeProject第5期](contents/20231120-20231126.md)
 
 ## 汇总
 
@@ -35,7 +36,7 @@
 | LLM 应用开发实践笔记 |    [link](https://github.com/morsoli/llm-books)  |  [awesomeProject第4期](contents/20231113-20231119.md) |
 | enerative AI Learning Path |    [link](https://cloudskillsboost.google/journeys/118)  |  [awesomeProject第4期](contents/20231113-20231119.md) |
 |11-667: Large Language Models Methods and Application  |    [link](https://cmu-llms.org)  |  [awesomeProject第4期](contents/20231113-20231119.md) |
-
+|如何阅读一篇论文  |    [link](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)  |  [awesomeProject第5期](contents/20231120-20231126.md) |
 
 
 ### LLM
@@ -76,6 +77,12 @@
 | Awesome GPTs |    [link](https://github.com/lxfater/Awesome-GPTs)  |  [awesomeProject第4期](contents/20231113-20231119.md) |
 | OpenCopilot |    [link](https://github.com/openchatai/OpenCopilot)  |  [awesomeProject第4期](contents/20231113-20231119.md) |
 | EmotiVoice易魔声 😊: 多音色提示控制TTS |    [link](https://github.com/netease-youdao/emotivoice)  |  [awesomeProject第4期](contents/20231113-20231119.md) |
+|Aminer |    [link](www.aminer.cn)  |  [awesomeProject第5期](contents/20231120-20231126.md) |
+| GPTseek|    [link](https://gptseek.com)  |  [awesomeProject第5期](contents/20231120-20231126.md) |
+|Vectorart |    [link](https://vectorart.ai/)  |  [awesomeProject第5期](contents/20231120-20231126.md) |
+|Draw Fast |    [link](https://github.com/tldraw/draw-fast)  |  [awesomeProject第5期](contents/20231120-20231126.md) |
+|UI Sketcher |    [link](https://github.com/pAIrprogio/vscode-ui-sketcher)  |  [awesomeProject第5期](contents/20231120-20231126.md) |
+|bloop |    [link](https://github.com/BloopAI/bloop)  |  [awesomeProject第5期](contents/20231120-20231126.md) |
 
 ### 音频
 
