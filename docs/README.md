@@ -10,6 +10,7 @@
 - [awesomeProject第3期](contents/20231106-20231112.md)
 - [awesomeProject第4期](contents/20231113-20231119.md)
 - [awesomeProject第5期](contents/20231120-20231126.md)
+- [awesomeProject第6期](contents/20231127-20231203.md)
 
 ## 汇总
 
@@ -83,12 +84,18 @@
 |Draw Fast |    [link](https://github.com/tldraw/draw-fast)  |  [awesomeProject第5期](contents/20231120-20231126.md) |
 |UI Sketcher |    [link](https://github.com/pAIrprogio/vscode-ui-sketcher)  |  [awesomeProject第5期](contents/20231120-20231126.md) |
 |bloop |    [link](https://github.com/BloopAI/bloop)  |  [awesomeProject第5期](contents/20231120-20231126.md) |
+|最懂程序员的新一代 AI 搜索引擎 |    [link](https://devv.ai/)  |  [awesomeProject第6期](contents/20231127-20231203.md) |
+|公益学术平台PubScholar |    [link](https://pubscholar.cn/)  |  [awesomeProject第6期](contents/20231127-20231203.md) |
+| 始智AI|    [link](https://www.wisemodel.cn)  |  [awesomeProject第6期](contents/20231127-20231203.md) |
+| Marker|    [link](https://github.com/VikParuchuri/marker)  |  [awesomeProject第6期](contents/20231127-20231203.md) |
+| Resume Matcher|    [link](https://github.com/srbhr/Resume-Matcher)  |  [awesomeProject第6期](contents/20231127-20231203.md) |
 
 ### 音频
 
 | 名字 |   地址 | 简介 | 
 | ---- |  ---- | ---- |  
 |  video-retalking  |    [link](https://github.com/OpenTalker/video-retalking)  |  [awesomeProject第2期](contents/20231030-20231105.md) |
+|实时语音翻译模型 Seamless |    [link](https://github.com/facebookresearch/seamless_communication)  |  [awesomeProject第6期](contents/20231127-20231203.md) |
 
 ### 深度学习
 
@@ -100,6 +107,10 @@
 |  自然语言处理项目&工具库&资源大全 |    [link](https://github.com/HanXinzi-AI/awesome-NLP-resources)  |  [awesomeProject第3期](contents/20231106-20231112.md) |
 | 计算机视觉项目&工具库&资源大全 |    [link](https://github.com/HanXinzi-AI/awesome-computer-vision-resources)  |  [awesomeProject第3期](contents/20231106-20231112.md) |
 
+
+### 多模态
+| LaVie(Text2Video Model)|    [link](https://github.com/Vchitect/LaVie)  |  [awesomeProject第6期](contents/20231127-20231203.md) |
+|SEINE(Image2Video  Model) |    [link](https://github.com/Vchitect/SEINE)  |  [awesomeProject第6期](contents/20231127-20231203.md) |
 
 
 ## 公众号
