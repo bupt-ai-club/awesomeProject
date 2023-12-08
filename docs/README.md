@@ -109,6 +109,9 @@
 
 
 ### 多模态
+
+| 名字 |   地址 | 简介 | 
+| ---- |  ---- | ---- |
 | LaVie(Text2Video Model)|    [link](https://github.com/Vchitect/LaVie)  |  [awesomeProject第6期](contents/20231127-20231203.md) |
 |SEINE(Image2Video  Model) |    [link](https://github.com/Vchitect/SEINE)  |  [awesomeProject第6期](contents/20231127-20231203.md) |
 
