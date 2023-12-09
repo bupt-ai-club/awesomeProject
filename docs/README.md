@@ -11,11 +11,12 @@
 - [awesomeProject第4期](contents/20231113-20231119.md)
 - [awesomeProject第5期](contents/20231120-20231126.md)
 - [awesomeProject第6期](contents/20231127-20231203.md)
+- [awesomeProject第7期](contents/20231204-20231210.md)
 
 ## 汇总
 
 
-### Model Compression
+### 模型压缩
 
 | 名字 |   地址 | 简介 | 
 | ---- |  ---- | ---- |  
@@ -25,7 +26,7 @@
 |  Awesome Efficient LLM |    [link](https://github.com/horseee/Awesome-Efficient-LLMg)  |  [awesomeProject第3期](contents/20231106-20231112.md) |
 
 
-### Course
+### AI课程
 
 | 名字 |   地址 | 简介 | 
 | ---- |  ---- | ---- |  
@@ -38,6 +39,10 @@
 | enerative AI Learning Path |    [link](https://cloudskillsboost.google/journeys/118)  |  [awesomeProject第4期](contents/20231113-20231119.md) |
 |11-667: Large Language Models Methods and Application  |    [link](https://cmu-llms.org)  |  [awesomeProject第4期](contents/20231113-20231119.md) |
 |如何阅读一篇论文  |    [link](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)  |  [awesomeProject第5期](contents/20231120-20231126.md) |
+| AI教程 |    [link](https://space.bilibili.com/3129054/channel/collectiondetail?sid=874339)  |  [awesomeProject第7期](contents/20231204-20231210.md) |
+| ICML2023_Tutorial on Multimodal Machine Learning |    [link](https://wwqu.lanzouq.com/iFsgq1h81osf)  |  [awesomeProject第7期](contents/20231204-20231210.md) |
+
+
 
 
 ### LLM
@@ -57,9 +62,12 @@
 |  GPT-Fathom|    [link](https://github.com/GPT-Fathom/GPT-Fathom)  |  [awesomeProject第2期](contents/20231030-20231105.md)    |
 | Awesome AI Agents |    [link](https://github.com/e2b-dev/awesome-ai-agents)  |  [awesomeProject第3期](contents/20231106-20231112.md) |
 | LLaMA Rider |    [link](https://github.com/PKU-RL/LLaMA-Rider)  |  [awesomeProject第3期](contents/20231106-20231112.md) |
-| GPTsHunter |    [link](https://www.gptshunter.com/ )  |  [awesomeProject第3期](contents/20231106-20231112.md) |
-
-
+| GPTsHunter |    [link](https://www.gptshunter.com)  |  [awesomeProject第3期](contents/20231106-20231112.md) |
+| LLMs九层妖塔|    [link](https://github.com/km1994/LLMsNineStoryDemonTower)  |  [awesomeProject第7期](contents/20231204-20231210.md) |
+| LLM大模型训练专栏 |    [link](https://www.zhihu.com/column/c_1252604770952642560)  |  [awesomeProject第7期](contents/20231204-20231210.md) |
+| Awesome-Domain-LLM |    [link](https://github.com/luban-agi/Awesome-Domain-LLM)  |  [awesomeProject第7期](contents/20231204-20231210.md) |
+| DecryptPrompt |    [link](https://github.com/DSXiangLi/DecryptPrompt)  |  [awesomeProject第7期](contents/20231204-20231210.md) |
+|Awesome Pretrained Chinese NLP Models  |    [link](https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models)  |  [awesomeProject第7期](contents/20231204-20231210.md) |
 
 ### Stable Diffusion
 
@@ -67,7 +75,7 @@
 | ---- |  ---- | ---- |  
 | ComfyUI教程 |    [link](https://www.bilibili.com/video/BV1K8411y7Ei)  |  [awesomeProject第1期](contents/20231030-20231105.md)    |
 
-### Tools
+### AI工具
 
 | 名字 |   地址 | 简介 | 
 | ---- |  ---- | ---- |  
@@ -89,6 +97,9 @@
 | 始智AI|    [link](https://www.wisemodel.cn)  |  [awesomeProject第6期](contents/20231127-20231203.md) |
 | Marker|    [link](https://github.com/VikParuchuri/marker)  |  [awesomeProject第6期](contents/20231127-20231203.md) |
 | Resume Matcher|    [link](https://github.com/srbhr/Resume-Matcher)  |  [awesomeProject第6期](contents/20231127-20231203.md) |
+| 发现最新最佳AI产品 |    [link](https://top.aibase.com/)  |  [awesomeProject第7期](contents/20231204-20231210.md) |
+| Awesome Free ChatGPT |    [link](https://github.com/LiLittleCat/awesome-free-chatgpt)  |  [awesomeProject第7期](contents/20231204-20231210.md) |
+
 
 ### 音频
 
