@@ -68,6 +68,10 @@
 | Awesome-Domain-LLM |    [link](https://github.com/luban-agi/Awesome-Domain-LLM)  |  [awesomeProject第7期](contents/20231204-20231210.md) |
 | DecryptPrompt |    [link](https://github.com/DSXiangLi/DecryptPrompt)  |  [awesomeProject第7期](contents/20231204-20231210.md) |
 |Awesome Pretrained Chinese NLP Models  |    [link](https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models)  |  [awesomeProject第7期](contents/20231204-20231210.md) |
+|LLM-Zoo  |    [link](https://github.com/DAMO-NLP-SG/LLM-Zoo)  |  [awesomeProject第7期](contents/20231211-20231217.md) |
+| LLMs-In-China |    [link](https://github.com/wgwang/LLMs-In-China)  |  [awesomeProject第7期](contents/20231211-20231217.md) |
+| BMList |    [link](https://github.com/OpenBMB/BMList)  |  [awesomeProject第7期](contents/20231211-20231217.md) |
+| GPTs |    [link](https://github.com/linexjlin/GPTs)  |  [awesomeProject第7期](contents/20231211-20231217.md) |
 
 ### Stable Diffusion
 
@@ -125,7 +129,7 @@
 | ---- |  ---- | ---- |
 | LaVie(Text2Video Model)|    [link](https://github.com/Vchitect/LaVie)  |  [awesomeProject第6期](contents/20231127-20231203.md) |
 |SEINE(Image2Video  Model) |    [link](https://github.com/Vchitect/SEINE)  |  [awesomeProject第6期](contents/20231127-20231203.md) |
-
+| Vary |    [link](https://github.com/Ucas-HaoranWei/Vary)  |  [awesomeProject第7期](contents/20231211-20231217.md) |
 
 ## 公众号
 
