@@ -72,6 +72,8 @@
 | LLMs-In-China |    [link](https://github.com/wgwang/LLMs-In-China)  |  [awesomeProject第8期](contents/20231211-20231217.md) |
 | BMList |    [link](https://github.com/OpenBMB/BMList)  |  [awesomeProject第8期](contents/20231211-20231217.md) |
 | GPTs |    [link](https://github.com/linexjlin/GPTs)  |  [awesomeProject第8期](contents/20231211-20231217.md) |
+| CLoT |    [link](https://github.com/sail-sg/CLoT)  |  [awesomeProject第8期](contents/20231211-20231217.md) |
+
 
 ### Stable Diffusion
 
@@ -103,6 +105,8 @@
 | Resume Matcher|    [link](https://github.com/srbhr/Resume-Matcher)  |  [awesomeProject第6期](contents/20231127-20231203.md) |
 | 发现最新最佳AI产品 |    [link](https://top.aibase.com/)  |  [awesomeProject第7期](contents/20231204-20231210.md) |
 | Awesome Free ChatGPT |    [link](https://github.com/LiLittleCat/awesome-free-chatgpt)  |  [awesomeProject第7期](contents/20231204-20231210.md) |
+| AnythingLLM |    [link](https://github.com/Mintplex-Labs/anything-llm)  |  [awesomeProject第8期](contents/20231211-20231217.md) |
+| Chatd |    [link](https://github.com/BruceMacD/chatd)  |  [awesomeProject第8期](contents/20231211-20231217.md) |
 
 
 ### 音频
