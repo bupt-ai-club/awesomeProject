@@ -12,7 +12,7 @@
 - [awesomeProject第5期](contents/20231120-20231126.md)
 - [awesomeProject第6期](contents/20231127-20231203.md)
 - [awesomeProject第7期](contents/20231204-20231210.md)
-
+- [awesomeProject第8期](contents/20231211-20231217.md)
 ## 汇总
 
 
@@ -23,7 +23,7 @@
 |   deep-compression   |    [link](https://github.com/jack-willturner/deep-compression)  |  [awesomeProject第1期](contents/20231023-20231029.md)    |
 |   Awesome-Pruning   |    [link](https://github.com/he-y/Awesome-Pruning)  |  [awesomeProject第1期](contents/20231023-20231029.md)    |
 |  Efficient-Deep-Learning |    [link](https://github.com/MingSun-Tse/Efficient-Deep-Learning)  |  [awesomeProject第1期](contents/20231023-20231029.md)    |
-|  Awesome Efficient LLM |    [link](https://github.com/horseee/Awesome-Efficient-LLMg)  |  [awesomeProject第3期](contents/20231106-20231112.md) |
+|  Awesome Efficient LLM |    [link](https://github.com/horseee/Awesome-Efficient-LLM)  |  [awesomeProject第3期](contents/20231106-20231112.md) |
 
 
 ### AI课程
@@ -68,10 +68,10 @@
 | Awesome-Domain-LLM |    [link](https://github.com/luban-agi/Awesome-Domain-LLM)  |  [awesomeProject第7期](contents/20231204-20231210.md) |
 | DecryptPrompt |    [link](https://github.com/DSXiangLi/DecryptPrompt)  |  [awesomeProject第7期](contents/20231204-20231210.md) |
 |Awesome Pretrained Chinese NLP Models  |    [link](https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models)  |  [awesomeProject第7期](contents/20231204-20231210.md) |
-|LLM-Zoo  |    [link](https://github.com/DAMO-NLP-SG/LLM-Zoo)  |  [awesomeProject第7期](contents/20231211-20231217.md) |
-| LLMs-In-China |    [link](https://github.com/wgwang/LLMs-In-China)  |  [awesomeProject第7期](contents/20231211-20231217.md) |
-| BMList |    [link](https://github.com/OpenBMB/BMList)  |  [awesomeProject第7期](contents/20231211-20231217.md) |
-| GPTs |    [link](https://github.com/linexjlin/GPTs)  |  [awesomeProject第7期](contents/20231211-20231217.md) |
+|LLM-Zoo  |    [link](https://github.com/DAMO-NLP-SG/LLM-Zoo)  |  [awesomeProject第8期](contents/20231211-20231217.md) |
+| LLMs-In-China |    [link](https://github.com/wgwang/LLMs-In-China)  |  [awesomeProject第8期](contents/20231211-20231217.md) |
+| BMList |    [link](https://github.com/OpenBMB/BMList)  |  [awesomeProject第8期](contents/20231211-20231217.md) |
+| GPTs |    [link](https://github.com/linexjlin/GPTs)  |  [awesomeProject第8期](contents/20231211-20231217.md) |
 
 ### Stable Diffusion
 
@@ -129,7 +129,7 @@
 | ---- |  ---- | ---- |
 | LaVie(Text2Video Model)|    [link](https://github.com/Vchitect/LaVie)  |  [awesomeProject第6期](contents/20231127-20231203.md) |
 |SEINE(Image2Video  Model) |    [link](https://github.com/Vchitect/SEINE)  |  [awesomeProject第6期](contents/20231127-20231203.md) |
-| Vary |    [link](https://github.com/Ucas-HaoranWei/Vary)  |  [awesomeProject第7期](contents/20231211-20231217.md) |
+| Vary |    [link](https://github.com/Ucas-HaoranWei/Vary)  |  [awesomeProject第8期](contents/20231211-20231217.md) |
 
 ## 公众号
 
