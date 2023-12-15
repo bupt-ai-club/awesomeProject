@@ -41,7 +41,8 @@
 |如何阅读一篇论文  |    [link](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)  |  [awesomeProject第5期](contents/20231120-20231126.md) |
 | AI教程 |    [link](https://space.bilibili.com/3129054/channel/collectiondetail?sid=874339)  |  [awesomeProject第7期](contents/20231204-20231210.md) |
 | ICML2023_Tutorial on Multimodal Machine Learning |    [link](https://wwqu.lanzouq.com/iFsgq1h81osf)  |  [awesomeProject第7期](contents/20231204-20231210.md) |
-
+| LLM训练指南llm-training |    [link](https://rentry.co/llm-training)  |  [awesomeProject第8期](contents/20231211-20231217.md) |
+| CS183B 怎样创立一家创业公司 |    [link]( https://cs183.apachecn.org/#/docs/b/README)  |  [awesomeProject第8期](contents/20231211-20231217.md) |
 
 
 
@@ -134,6 +135,12 @@
 | LaVie(Text2Video Model)|    [link](https://github.com/Vchitect/LaVie)  |  [awesomeProject第6期](contents/20231127-20231203.md) |
 |SEINE(Image2Video  Model) |    [link](https://github.com/Vchitect/SEINE)  |  [awesomeProject第6期](contents/20231127-20231203.md) |
 | Vary |    [link](https://github.com/Ucas-HaoranWei/Vary)  |  [awesomeProject第8期](contents/20231211-20231217.md) |
+
+## 其他
+| 名字 |   地址 | 简介 | 
+| ---- |  ---- | ---- |
+| AI副业赚钱资讯合集|    [link](https://github.com/bleedline/aimoneyhunter)  |  [awesomeProject第8期](contents/20231211-20231217.md) |
+
 
 ## 公众号
 
