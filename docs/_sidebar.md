@@ -8,5 +8,5 @@
     * [awesomeProject第6期](contents/20231127-20231203.md)
     * [awesomeProject第7期](contents/20231204-20231210.md)
     * [awesomeProject第8期](contents/20231211-20231217.md)
-
+    * [awesomeProject第9期](contents/20231218-20231224.md)
 
