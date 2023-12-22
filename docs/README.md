@@ -47,7 +47,8 @@
 | ICML2023_Tutorial on Multimodal Machine Learning |    [link](https://wwqu.lanzouq.com/iFsgq1h81osf)  |  [awesomeProject第7期](contents/20231204-20231210.md) |
 | LLM训练指南llm-training |    [link](https://rentry.co/llm-training)  |  [awesomeProject第8期](contents/20231211-20231217.md) |
 | CS183B 怎样创立一家创业公司 |    [link]( https://cs183.apachecn.org/#/docs/b/README)  |  [awesomeProject第8期](contents/20231211-20231217.md) |
-
+| 2024 年学习生成式 AI 路线图 |    [link](https://github.com/krishnaik06/Roadmap-To-Learn-Generative-AI-In-2024)  |  [awesomeProject第9期](contents/20231218-20231224.md) |
+| 学会与 GitHub Copilot 进行 AI 结对编程 |    [link](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming)  |  [awesomeProject第9期](contents/20231218-20231224.md) |
 
 
 ### LLM
@@ -78,7 +79,7 @@
 | BMList |    [link](https://github.com/OpenBMB/BMList)  |  [awesomeProject第8期](contents/20231211-20231217.md) |
 | GPTs |    [link](https://github.com/linexjlin/GPTs)  |  [awesomeProject第8期](contents/20231211-20231217.md) |
 | CLoT |    [link](https://github.com/sail-sg/CLoT)  |  [awesomeProject第8期](contents/20231211-20231217.md) |
-
+|RAG 综述   |    [link](https://arxiv.org/abs/2312.10997)  |  [awesomeProject第9期](contents/20231218-20231224.md) |
 
 ### Stable Diffusion
 
@@ -112,6 +113,9 @@
 | Awesome Free ChatGPT |    [link](https://github.com/LiLittleCat/awesome-free-chatgpt)  |  [awesomeProject第7期](contents/20231204-20231210.md) |
 | AnythingLLM |    [link](https://github.com/Mintplex-Labs/anything-llm)  |  [awesomeProject第8期](contents/20231211-20231217.md) |
 | Chatd |    [link](https://github.com/BruceMacD/chatd)  |  [awesomeProject第8期](contents/20231211-20231217.md) |
+| Zotero插件 |    [link](https://zotero-chinese.com/)  |  [awesomeProject第9期](contents/20231218-20231224.md) |
+| AI图片处理神器inpaint-web |    [link](https://github.com/lxfater/inpaint-web)  |  [awesomeProject第9期](contents/20231218-20231224.md) |
+
 
 
 ### 音频
@@ -144,6 +148,8 @@
 | 名字 |   地址 | 简介 | 
 | ---- |  ---- | ---- |
 | AI副业赚钱资讯合集|    [link](https://github.com/bleedline/aimoneyhunter)  |  [awesomeProject第8期](contents/20231211-20231217.md) |
+| Big ideas in tech in 2024 |    [link](https://gamma.app/public/Big-Ideas-in-tech-in-2024-by-A16Z-phquomraxnzc1fs?mode=doc)  |  [awesomeProject第9期](contents/20231218-20231224.md) |
+| 用 RAGAs评估 RAG应用 [译] |    [link](https://baoyu.io/translations/rag/evaluating-rag-applications-with-ragas?continueFlag=5d10d34c97637bebcfeba6470c0f0d9b)  |  [awesomeProject第9期](contents/20231218-20231224.md) |
 
 
 ## 公众号
