@@ -16,6 +16,7 @@
 - [awesomeProject第7期](contents/20231204-20231210.md)
 - [awesomeProject第8期](contents/20231211-20231217.md)
 - [awesomeProject第9期](contents/20231218-20231224.md)
+- [awesomeProject第10期](contents/20231225-20231231.md)
 
 ## 汇总
 
@@ -115,7 +116,7 @@
 | Chatd |    [link](https://github.com/BruceMacD/chatd)  |  [awesomeProject第8期](contents/20231211-20231217.md) |
 | Zotero插件 |    [link](https://zotero-chinese.com/)  |  [awesomeProject第9期](contents/20231218-20231224.md) |
 | AI图片处理神器inpaint-web |    [link](https://github.com/lxfater/inpaint-web)  |  [awesomeProject第9期](contents/20231218-20231224.md) |
-
+| 一键部署大模型 |    [link](https://github.com/ConnectAI-E/Awesome-One-Click-Deployment)  |  [awesomeProject第10期](contents/20231225-20231231.md)|
 
 
 ### 音频
