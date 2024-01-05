@@ -17,6 +17,7 @@
 - [awesomeProject第8期](contents/20231211-20231217.md)
 - [awesomeProject第9期](contents/20231218-20231224.md)
 - [awesomeProject第10期](contents/20231225-20231231.md)
+- [awesomeProject第11期](contents/20240101-20240106.md)
 
 ## 汇总
 
@@ -50,6 +51,7 @@
 | CS183B 怎样创立一家创业公司 |    [link]( https://cs183.apachecn.org/#/docs/b/README)  |  [awesomeProject第8期](contents/20231211-20231217.md) |
 | 2024 年学习生成式 AI 路线图 |    [link](https://github.com/krishnaik06/Roadmap-To-Learn-Generative-AI-In-2024)  |  [awesomeProject第9期](contents/20231218-20231224.md) |
 | 学会与 GitHub Copilot 进行 AI 结对编程 |    [link](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming)  |  [awesomeProject第9期](contents/20231218-20231224.md) |
+| 大模型课程llm-course  |    [link](https://github.com/mlabonne/llm-course)  |  [awesomeProject第11期](contents/20240101-20240106.md) |
 
 
 ### LLM
@@ -81,6 +83,11 @@
 | GPTs |    [link](https://github.com/linexjlin/GPTs)  |  [awesomeProject第8期](contents/20231211-20231217.md) |
 | CLoT |    [link](https://github.com/sail-sg/CLoT)  |  [awesomeProject第8期](contents/20231211-20231217.md) |
 |RAG 综述   |    [link](https://arxiv.org/abs/2312.10997)  |  [awesomeProject第9期](contents/20231218-20231224.md) |
+| Stanford Alpaca  |    [link](https://github.com/tatsu-lab/stanford_alpaca)  |  [awesomeProject第11期](contents/20240101-20240106.md) |
+|  OpenLLaMA |    [link](https://github.com/openlm-research/open_llama)  |  [awesomeProject第11期](contents/20240101-20240106.md) |
+| AutoGen  |    [link](https://github.com/microsoft/autogen)  |  [awesomeProject第11期](contents/20240101-20240106.md) |
+| 大型语言模型实用指南  |    [link](https://github.com/Mooler0410/LLMsPracticalGuide)  |  [awesomeProject第11期](contents/20240101-20240106.md) |
+
 
 ### Stable Diffusion
 
@@ -116,8 +123,9 @@
 | Chatd |    [link](https://github.com/BruceMacD/chatd)  |  [awesomeProject第8期](contents/20231211-20231217.md) |
 | Zotero插件 |    [link](https://zotero-chinese.com/)  |  [awesomeProject第9期](contents/20231218-20231224.md) |
 | AI图片处理神器inpaint-web |    [link](https://github.com/lxfater/inpaint-web)  |  [awesomeProject第9期](contents/20231218-20231224.md) |
-| 一键部署大模型 |    [link](https://github.com/ConnectAI-E/Awesome-One-Click-Deployment)  |  [awesomeProject第10期](contents/20231225-20231231.md)|
-
+| 一键部署大模型 |    [link](https://github.com/ConnectAI-E/Awesome-One-Click-Deployment)  |  [awesomeProject第11期](contents/20240101-20240106.md)|
+|  JARVIS |    [link](https://github.com/microsoft/JARVIS)  |  [awesomeProject第11期](contents/20240101-20240106.md) |
+|  在线交互式教学工具 |    [link](https://github.com/ronreiter/interactive-tutorials?tab=readme-ov-file)  |  [awesomeProject第11期](contents/20240101-20240106.md) |
 
 ### 音频
 
@@ -144,6 +152,8 @@
 | LaVie(Text2Video Model)|    [link](https://github.com/Vchitect/LaVie)  |  [awesomeProject第6期](contents/20231127-20231203.md) |
 |SEINE(Image2Video  Model) |    [link](https://github.com/Vchitect/SEINE)  |  [awesomeProject第6期](contents/20231127-20231203.md) |
 | Vary |    [link](https://github.com/Ucas-HaoranWei/Vary)  |  [awesomeProject第8期](contents/20231211-20231217.md) |
+|  Awesome Multimodal Large Language Models |    [link](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)  |  [awesomeProject第11期](contents/20240101-20240106.md) |
+
 
 ## 其他
 | 名字 |   地址 | 简介 | 

@@ -10,4 +10,5 @@
     * [awesomeProject第8期](contents/20231211-20231217.md)
     * [awesomeProject第9期](contents/20231218-20231224.md)
     * [awesomeProject第10期](contents/20231225-20231231.md)
+    * [awesomeProject第11期](contents/20240101-20240106.md)
 
