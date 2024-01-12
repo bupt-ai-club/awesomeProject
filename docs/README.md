@@ -18,6 +18,7 @@
 - [awesomeProject第9期](contents/20231218-20231224.md)
 - [awesomeProject第10期](contents/20231225-20231231.md)
 - [awesomeProject第11期](contents/20240101-20240106.md)
+- [awesomeProject第12期](contents/20240107-20240113.md)
 
 ## 汇总
 
@@ -52,6 +53,9 @@
 | 2024 年学习生成式 AI 路线图 |    [link](https://github.com/krishnaik06/Roadmap-To-Learn-Generative-AI-In-2024)  |  [awesomeProject第9期](contents/20231218-20231224.md) |
 | 学会与 GitHub Copilot 进行 AI 结对编程 |    [link](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming)  |  [awesomeProject第9期](contents/20231218-20231224.md) |
 | 大模型课程llm-course  |    [link](https://github.com/mlabonne/llm-course)  |  [awesomeProject第11期](contents/20240101-20240106.md) |
+| LLM课程  |    [link](https://github.com/peremartra/Large-Language-Model-Notebooks-Course)  |  [awesomeProject第12期](contents/20240107-20240113.md) |
+| CS479: Machine Learning for 3D Data  |    [link](https://mhsung.github.io/kaist-cs479-fall-2023)  |  [awesomeProject第12期](contents/20240107-20240113.md) |
+|  Docker 速成课程  |    [link](https://github.com/adrianhajdin/docker-course)  |  [awesomeProject第12期](contents/20240107-20240113.md) |
 
 
 ### LLM
@@ -87,6 +91,10 @@
 |  OpenLLaMA |    [link](https://github.com/openlm-research/open_llama)  |  [awesomeProject第11期](contents/20240101-20240106.md) |
 | AutoGen  |    [link](https://github.com/microsoft/autogen)  |  [awesomeProject第11期](contents/20240101-20240106.md) |
 | 大型语言模型实用指南  |    [link](https://github.com/Mooler0410/LLMsPracticalGuide)  |  [awesomeProject第11期](contents/20240101-20240106.md) |
+|  mlc-llm |    [link](https://github.com/mlc-ai/mlc-llm)  |  [awesomeProject第12期](contents/20240107-20240113.md) |
+|  数高效微调 PEFT |    [link](https://github.com/huggingface/peft)  |  [awesomeProject第12期](contents/20240107-20240113.md) |
+| Alpaca-LoRA  |    [link](https://github.com/tloen/alpaca-lora)  |  [awesomeProject第12期](contents/20240107-20240113.md) |
+| 手把手教你构建基于RAG的LLM应用  |    [link](https://github.com/ray-project/llm-applications)  |  [awesomeProject第12期](contents/20240107-20240113.md) |
 
 
 ### Stable Diffusion
@@ -126,6 +134,8 @@
 | 一键部署大模型 |    [link](https://github.com/ConnectAI-E/Awesome-One-Click-Deployment)  |  [awesomeProject第11期](contents/20240101-20240106.md)|
 |  JARVIS |    [link](https://github.com/microsoft/JARVIS)  |  [awesomeProject第11期](contents/20240101-20240106.md) |
 |  在线交互式教学工具 |    [link](https://github.com/ronreiter/interactive-tutorials?tab=readme-ov-file)  |  [awesomeProject第11期](contents/20240101-20240106.md) |
+| AnyText  |    [link](https://github.com/tyxsspa/AnyText)  |  [awesomeProject第12期](contents/20240107-20240113.md) |
+
 
 ### 音频
 
