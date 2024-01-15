@@ -20,6 +20,11 @@
 - [awesomeProject第11期](contents/20240101-20240106.md)
 - [awesomeProject第12期](contents/20240107-20240113.md)
 
+
+## 专题目录
+
+- [科研工具专题](https://mp.weixin.qq.com/s/jPYdZmLGigUTf4p_ey6KQQ)
+
 ## 汇总
 
 
