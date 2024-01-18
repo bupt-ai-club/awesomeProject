@@ -19,6 +19,7 @@
 - [awesomeProject第10期](contents/20231225-20231231.md)
 - [awesomeProject第11期](contents/20240101-20240106.md)
 - [awesomeProject第12期](contents/20240107-20240113.md)
+- [awesomeProject第13期](contents/20240114-20240120.md)
 
 
 ## 专题目录
@@ -61,6 +62,8 @@
 | LLM课程  |    [link](https://github.com/peremartra/Large-Language-Model-Notebooks-Course)  |  [awesomeProject第12期](contents/20240107-20240113.md) |
 | CS479: Machine Learning for 3D Data  |    [link](https://mhsung.github.io/kaist-cs479-fall-2023)  |  [awesomeProject第12期](contents/20240107-20240113.md) |
 |  Docker 速成课程  |    [link](https://github.com/adrianhajdin/docker-course)  |  [awesomeProject第12期](contents/20240107-20240113.md) |
+|  提示工程 Prompt Engineering 指南 |    [link](https://realpython.com/practical-prompt-engineering/)  | [awesomeProject第13期](contents/20240114-20240120.md) |
+|  从头开始构建大型语言模型 |    [link](https://github.com/rasbt/LLMs-from-scratch/tree/main)  | [awesomeProject第13期](contents/20240114-20240120.md) |
 
 
 ### LLM
@@ -97,9 +100,16 @@
 | AutoGen  |    [link](https://github.com/microsoft/autogen)  |  [awesomeProject第11期](contents/20240101-20240106.md) |
 | 大型语言模型实用指南  |    [link](https://github.com/Mooler0410/LLMsPracticalGuide)  |  [awesomeProject第11期](contents/20240101-20240106.md) |
 |  mlc-llm |    [link](https://github.com/mlc-ai/mlc-llm)  |  [awesomeProject第12期](contents/20240107-20240113.md) |
-|  数高效微调 PEFT |    [link](https://github.com/huggingface/peft)  |  [awesomeProject第12期](contents/20240107-20240113.md) |
+|  高效微调 PEFT |    [link](https://github.com/huggingface/peft)  |  [awesomeProject第12期](contents/20240107-20240113.md) |
 | Alpaca-LoRA  |    [link](https://github.com/tloen/alpaca-lora)  |  [awesomeProject第12期](contents/20240107-20240113.md) |
 | 手把手教你构建基于RAG的LLM应用  |    [link](https://github.com/ray-project/llm-applications)  |  [awesomeProject第12期](contents/20240107-20240113.md) |
+|  ChatLM-mini-Chinese（0.2B） |    [link](https://github.com/charent/ChatLM-mini-Chinese)  | [awesomeProject第13期](contents/20240114-20240120.md) |
+| AI 研发提效研究：自己动手训练 LoRA  |    [link](https://github.com/unit-mesh/unit-minions)  | [awesomeProject第13期](contents/20240114-20240120.md) |
+|  KG_RAG |    [link](https://github.com/BaranziniLab/KG_RAG)  | [awesomeProject第13期](contents/20240114-20240120.md) |
+| 高效人工智能推理和服务SwiftInfer  |    [link](https://github.com/hpcaitech/SwiftInfer)  | [awesomeProject第13期](contents/20240114-20240120.md) |
+|MBTI大模型   |    [link](https://github.com/PKU-YuanGroup/Machine-Mindset)  | [awesomeProject第13期](contents/20240114-20240120.md) |
+|  Haystack |    [link](https://github.com/deepset-ai/haystack)  | [awesomeProject第13期](contents/20240114-20240120.md) |
+
 
 
 ### Stable Diffusion
