@@ -20,6 +20,7 @@
 - [awesomeProject第11期](contents/20240101-20240106.md)
 - [awesomeProject第12期](contents/20240107-20240113.md)
 - [awesomeProject第13期](contents/20240114-20240120.md)
+- [awesomeProject第14期](contents/20240122-20240128.md) 
 
 
 ## 专题目录
@@ -109,7 +110,10 @@
 | 高效人工智能推理和服务SwiftInfer  |    [link](https://github.com/hpcaitech/SwiftInfer)  | [awesomeProject第13期](contents/20240114-20240120.md) |
 |MBTI大模型   |    [link](https://github.com/PKU-YuanGroup/Machine-Mindset)  | [awesomeProject第13期](contents/20240114-20240120.md) |
 |  Haystack |    [link](https://github.com/deepset-ai/haystack)  | [awesomeProject第13期](contents/20240114-20240120.md) |
-
+|Inferflow  |    [link](https://github.com/inferflow/inferflow)  | [awesomeProject第14期](contents/20240122-20240128.md) |
+| Efficient LLM and Multimodal Foundation Model Survey |    [link](https://github.com/UbiquitousLearning/Efficient_Foundation_Model_Survey)  | [awesomeProject第14期](contents/20240122-20240128.md) |
+| DataTrove |    [link](https://github.com/huggingface/datatrove)  | [awesomeProject第14期](contents/20240122-20240128.md) |
+| Distributed Llama |    [link](https://github.com/b4rtaz/distributed-llama)  | [awesomeProject第14期](contents/20240122-20240128.md) |
 
 
 ### Stable Diffusion
@@ -150,7 +154,7 @@
 |  JARVIS |    [link](https://github.com/microsoft/JARVIS)  |  [awesomeProject第11期](contents/20240101-20240106.md) |
 |  在线交互式教学工具 |    [link](https://github.com/ronreiter/interactive-tutorials?tab=readme-ov-file)  |  [awesomeProject第11期](contents/20240101-20240106.md) |
 | AnyText  |    [link](https://github.com/tyxsspa/AnyText)  |  [awesomeProject第12期](contents/20240107-20240113.md) |
-
+| 哄哄模拟器Web版 |    [link](https://hong.greatdk.com)  | [awesomeProject第14期](contents/20240122-20240128.md) |
 
 ### 音频
 
@@ -168,6 +172,9 @@
 |  Jupyter资源与工具库大全 |    [link](https://github.com/HanXinzi-AI/awesome-jupyter-resources)  |  [awesomeProject第3期](contents/20231106-20231112.md) |
 |  自然语言处理项目&工具库&资源大全 |    [link](https://github.com/HanXinzi-AI/awesome-NLP-resources)  |  [awesomeProject第3期](contents/20231106-20231112.md) |
 | 计算机视觉项目&工具库&资源大全 |    [link](https://github.com/HanXinzi-AI/awesome-computer-vision-resources)  |  [awesomeProject第3期](contents/20231106-20231112.md) |
+|ML-Papers-of-the-Week  | [link](https://github.com/dair-ai/ML-Papers-of-the-Week)  | [awesomeProject第14期](contents/20240122-20240128.md) |
+
+
 
 
 ### 多模态
