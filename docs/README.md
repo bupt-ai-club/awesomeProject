@@ -21,7 +21,7 @@
 - [awesomeProject第12期](contents/20240107-20240113.md)
 - [awesomeProject第13期](contents/20240114-20240120.md)
 - [awesomeProject第14期](contents/20240122-20240128.md) 
-
+- [awesomeProject第15期](contents/202401229-20240204.md) 
 
 ## 专题目录
 
@@ -65,7 +65,7 @@
 |  Docker 速成课程  |    [link](https://github.com/adrianhajdin/docker-course)  |  [awesomeProject第12期](contents/20240107-20240113.md) |
 |  提示工程 Prompt Engineering 指南 |    [link](https://realpython.com/practical-prompt-engineering/)  | [awesomeProject第13期](contents/20240114-20240120.md) |
 |  从头开始构建大型语言模型 |    [link](https://github.com/rasbt/LLMs-from-scratch/tree/main)  | [awesomeProject第13期](contents/20240114-20240120.md) |
-
+| Deep Learning for Music Analysis and Generation|[link](https://github.com/affige/DeepMIR)| [awesomeProject第15期](contents/202401229-20240204.md) |
 
 ### LLM
 
@@ -114,13 +114,20 @@
 | Efficient LLM and Multimodal Foundation Model Survey |    [link](https://github.com/UbiquitousLearning/Efficient_Foundation_Model_Survey)  | [awesomeProject第14期](contents/20240122-20240128.md) |
 | DataTrove |    [link](https://github.com/huggingface/datatrove)  | [awesomeProject第14期](contents/20240122-20240128.md) |
 | Distributed Llama |    [link](https://github.com/b4rtaz/distributed-llama)  | [awesomeProject第14期](contents/20240122-20240128.md) |
-
+| llm-books |[link](https://github.com/morsoli/llm-books)| [awesomeProject第15期](contents/202401229-20240204.md) |
+| MiniCPM: 揭示端侧大语言模型的无限潜力|[link](https://github.com/allenai/OLMo)| [awesomeProject第15期](contents/202401229-20240204.md) |
+| OLMo|[link](https://github.com/allenai/OLMo)| [awesomeProject第15期](contents/202401229-20240204.md) |
+|OmniLMM |[link](https://github.com/OpenBMB/OmniLMM)| [awesomeProject第15期](contents/202401229-20240204.md) |
+|Autonomous Agents |[link](https://github.com/tmgthb/Autonomous-Agents)| [awesomeProject第15期](contents/202401229-20240204.md) |
+|awesome-humanoid-learning |[link](https://github.com/jonyzhang2023/awesome-humanoid-learning)| [awesomeProject第15期](contents/202401229-20240204.md) |
 
 ### Stable Diffusion
 
 | 名字 |   地址 | 简介 | 
 | ---- |  ---- | ---- |  
 | ComfyUI教程 |    [link](https://www.bilibili.com/video/BV1K8411y7Ei)  |  [awesomeProject第1期](contents/20231030-20231105.md)    |
+| Stable Diffusion教程|[link](https://course.fast.ai/Lessons/part2.html)| [awesomeProject第15期](contents/202401229-20240204.md) |
+
 
 ### AI工具
 
