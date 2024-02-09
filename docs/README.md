@@ -119,7 +119,16 @@
 | OLMo|[link](https://github.com/allenai/OLMo)| [awesomeProject第15期](contents/202401229-20240204.md) |
 |OmniLMM |[link](https://github.com/OpenBMB/OmniLMM)| [awesomeProject第15期](contents/202401229-20240204.md) |
 |Autonomous Agents |[link](https://github.com/tmgthb/Autonomous-Agents)| [awesomeProject第15期](contents/202401229-20240204.md) |
-|awesome-humanoid-learning |[link](https://github.com/jonyzhang2023/awesome-humanoid-learning)| [awesomeProject第15期](contents/202401229-20240204.md) |
+|Awesome-Medical-Large-Language-Models|[link](https://github.com/burglarhobbit/Awesome-Medical-Large-Language-Models)| [awesomeProject第16期](contents/20240205-20240211.md) |
+|SegMoE: Segmind Mixture of Diffusion Experts|[link](https://github.com/segmind/segmoe)| [awesomeProject第16期](contents/20240205-20240211.md) |
+|Qwen1.5|[link](https://github.com/QwenLM/Qwen1.5)| [awesomeProject第16期](contents/20240205-20240211.md) |
+|coze-discord-proxy|[link](https://github.com/deanxv/coze-discord-proxy)| [awesomeProject第16期](contents/20240205-20240211.md) |
+|Tabular LLM：构建面向表格智能任务的大型语言模型|[link](https://github.com/SpursGoZmy/Tabular-LLM)| [awesomeProject第16期](contents/20240205-20240211.md) |
+|Embedchain|[link](https://github.com/embedchain/embedchain)| [awesomeProject第16期](contents/20240205-20240211.md) |
+|Ragas|[link](https://github.com/explodinggradients/ragas)| [awesomeProject第16期](contents/20240205-20240211.md) |
+|fastRAG|[link](https://github.com/IntelLabs/fastRAG)| [awesomeProject第16期](contents/20240205-20240211.md) |
+|DLRover：自动分布式深度学习系统|[link](https://github.com/IntelLabs/fastRAG)| [awesomeProject第16期](contents/20240205-20240211.md) |
+
 
 ### Stable Diffusion
 
