@@ -22,6 +22,8 @@
 - [awesomeProject第13期](contents/20240114-20240120.md)
 - [awesomeProject第14期](contents/20240122-20240128.md) 
 - [awesomeProject第15期](contents/202401229-20240204.md) 
+- [awesomeProject第16期](contents/20240205-20240211.md)
+- [awesomeProject第17期](contents/20240212-20240218.md)
 
 ## 专题目录
 
@@ -66,6 +68,8 @@
 |  提示工程 Prompt Engineering 指南 |    [link](https://realpython.com/practical-prompt-engineering/)  | [awesomeProject第13期](contents/20240114-20240120.md) |
 |  从头开始构建大型语言模型 |    [link](https://github.com/rasbt/LLMs-from-scratch/tree/main)  | [awesomeProject第13期](contents/20240114-20240120.md) |
 | Deep Learning for Music Analysis and Generation|[link](https://github.com/affige/DeepMIR)| [awesomeProject第15期](contents/202401229-20240204.md) |
+|ML-YouTube-Courses|[link](https://github.com/dair-ai/ML-YouTube-Courses)| [awesomeProject第17期](contents/20240212-20240218.md) |
+
 
 ### LLM
 
@@ -128,6 +132,13 @@
 |Ragas|[link](https://github.com/explodinggradients/ragas)| [awesomeProject第16期](contents/20240205-20240211.md) |
 |fastRAG|[link](https://github.com/IntelLabs/fastRAG)| [awesomeProject第16期](contents/20240205-20240211.md) |
 |DLRover：自动分布式深度学习系统|[link](https://github.com/IntelLabs/fastRAG)| [awesomeProject第16期](contents/20240205-20240211.md) |
+|GPTScript|[link](https://github.com/gptscript-ai/gptscript)| [awesomeProject第17期](contents/20240212-20240218.md) |
+|Multi-Agent-GPT|[link](https://github.com/YangXuanyi/Multi-Agent-GPT)| [awesomeProject第17期](contents/20240212-20240218.md) |
+|开源Agent框架InfiAgent|[link](https://github.com/InfiAgent/InfiAgent)| [awesomeProject第17期](contents/20240212-20240218.md) |
+|ai-benchmarks|[link](https://github.com/fixie-ai/ai-benchmarks)| [awesomeProject第17期](contents/20240212-20240218.md) |
+|Web LLM|[link](https://github.com/mlc-ai/web-llm)| [awesomeProject第17期](contents/20240212-20240218.md) |
+|QAnything|[link](https://github.com/netease-youdao/QAnything)| [awesomeProject第17期](contents/20240212-20240218.md) |
+|Jan|[link](https://github.com/janhq/jan)| [awesomeProject第17期](contents/20240212-20240218.md) |
 
 
 ### Stable Diffusion
