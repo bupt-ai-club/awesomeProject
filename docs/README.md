@@ -24,6 +24,7 @@
 - [awesomeProject第15期](contents/202401229-20240204.md) 
 - [awesomeProject第16期](contents/20240205-20240211.md)
 - [awesomeProject第17期](contents/20240212-20240218.md)
+- [awesomeProject第18期](contents/20240219-20240225.md)
 
 ## 专题目录
 
@@ -69,6 +70,9 @@
 |  从头开始构建大型语言模型 |    [link](https://github.com/rasbt/LLMs-from-scratch/tree/main)  | [awesomeProject第13期](contents/20240114-20240120.md) |
 | Deep Learning for Music Analysis and Generation|[link](https://github.com/affige/DeepMIR)| [awesomeProject第15期](contents/202401229-20240204.md) |
 |ML-YouTube-Courses|[link](https://github.com/dair-ai/ML-YouTube-Courses)| [awesomeProject第17期](contents/20240212-20240218.md) |
+| 魔搭LLM实战训练营|[link](https://www.bilibili.com/video/BV1Fi4y1W7XW)| [awesomeProject第18期](contents/20240219-20240225.md) |
+
+
 
 
 ### LLM
@@ -139,6 +143,10 @@
 |Web LLM|[link](https://github.com/mlc-ai/web-llm)| [awesomeProject第17期](contents/20240212-20240218.md) |
 |QAnything|[link](https://github.com/netease-youdao/QAnything)| [awesomeProject第17期](contents/20240212-20240218.md) |
 |Jan|[link](https://github.com/janhq/jan)| [awesomeProject第17期](contents/20240212-20240218.md) |
+| Sora原理与技术实战|[link](https://datawhaler.feishu.cn/wiki/RKrCw5YY1iNXDHkeYA5cOF4qnkb)| [awesomeProject第18期](contents/20240219-20240225.md) |
+|OpenAI视频生成模型Sora的全面解析 |[link](https://blog.csdn.net/v_JULY_v/article/details/136143475)| [awesomeProject第18期](contents/20240219-20240225.md) |
+|Sora AI 视频生成器 |[link](https://github.com/all-in-aigc/sorafm)| [awesomeProject第18期](contents/20240219-20240225.md) |
+|​​Hugging Multi-Agent |[link](https://github.com/datawhalechina/hugging-multi-agent)| [awesomeProject第18期](contents/20240219-20240225.md) |
 
 
 ### Stable Diffusion
@@ -182,6 +190,8 @@
 |  在线交互式教学工具 |    [link](https://github.com/ronreiter/interactive-tutorials?tab=readme-ov-file)  |  [awesomeProject第11期](contents/20240101-20240106.md) |
 | AnyText  |    [link](https://github.com/tyxsspa/AnyText)  |  [awesomeProject第12期](contents/20240107-20240113.md) |
 | 哄哄模拟器Web版 |    [link](https://hong.greatdk.com)  | [awesomeProject第14期](contents/20240122-20240128.md) |
+|秘塔AI搜索 |[link](https://metaso.cn)| [awesomeProject第18期](contents/20240219-20240225.md) |
+| 天工AI搜索|[link](https://search.tiangong.cn/)| [awesomeProject第18期](contents/20240219-20240225.md) |
 
 ### 音频
 
