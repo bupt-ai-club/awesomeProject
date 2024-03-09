@@ -25,6 +25,8 @@
 - [awesomeProject第16期](contents/20240205-20240211.md)
 - [awesomeProject第17期](contents/20240212-20240218.md)
 - [awesomeProject第18期](contents/20240219-20240225.md)
+- [awesomeProject第19期](contents/20240226-20240303.md)
+- [awesomeProject第20期](contents/20240304-20240310.md)
 
 ## 专题目录
 
@@ -71,7 +73,7 @@
 | Deep Learning for Music Analysis and Generation|[link](https://github.com/affige/DeepMIR)| [awesomeProject第15期](contents/202401229-20240204.md) |
 |ML-YouTube-Courses|[link](https://github.com/dair-ai/ML-YouTube-Courses)| [awesomeProject第17期](contents/20240212-20240218.md) |
 | 魔搭LLM实战训练营|[link](https://www.bilibili.com/video/BV1Fi4y1W7XW)| [awesomeProject第18期](contents/20240219-20240225.md) |
-
+|生成式人工智能导论（ 李宏毅） |[link](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring.php)| [awesomeProject第20期](contents/20240304-20240310.md) |
 
 
 
@@ -147,6 +149,10 @@
 |OpenAI视频生成模型Sora的全面解析 |[link](https://blog.csdn.net/v_JULY_v/article/details/136143475)| [awesomeProject第18期](contents/20240219-20240225.md) |
 |Sora AI 视频生成器 |[link](https://github.com/all-in-aigc/sorafm)| [awesomeProject第18期](contents/20240219-20240225.md) |
 |​​Hugging Multi-Agent |[link](https://github.com/datawhalechina/hugging-multi-agent)| [awesomeProject第18期](contents/20240219-20240225.md) |
+|Prompt Library |[link](https://www.moreusefulthings.com/prompts)| [awesomeProject第20期](contents/20240304-20240310.md) |
+| Apollo|[link](https://github.com/FreedomIntelligence/Apollo)| [awesomeProject第20期](contents/20240304-20240310.md) |
+|TensorRT-LLM as OpenAI API on Windows  |[link](https://github.com/NVIDIA/trt-llm-as-openai-windows)| [awesomeProject第20期](contents/20240304-20240310.md) |
+| 几何图神经网络综述：数据结构、模型和应用|[link](https://github.com/RUC-GLAD/GGNN4Science)| [awesomeProject第20期](contents/20240304-20240310.md) |
 
 
 ### Stable Diffusion
@@ -192,6 +198,9 @@
 | 哄哄模拟器Web版 |    [link](https://hong.greatdk.com)  | [awesomeProject第14期](contents/20240122-20240128.md) |
 |秘塔AI搜索 |[link](https://metaso.cn)| [awesomeProject第18期](contents/20240219-20240225.md) |
 | 天工AI搜索|[link](https://search.tiangong.cn/)| [awesomeProject第18期](contents/20240219-20240225.md) |
+|Agent搜索引擎BrainStrom |[link](https://brainstorm.cool)| [awesomeProject第20期](contents/20240304-20240310.md) |
+|搜索引擎Globe |[link](https://explorer.globe.engineer)| [awesomeProject第20期](contents/20240304-20240310.md) |
+
 
 ### 音频
 
