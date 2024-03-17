@@ -27,6 +27,7 @@
 - [awesomeProject第18期](contents/20240219-20240225.md)
 - [awesomeProject第19期](contents/20240226-20240303.md)
 - [awesomeProject第20期](contents/20240304-20240310.md)
+- [awesomeProject第21期](contents/20240311-20240317.md)
 
 ## 专题目录
 
@@ -74,6 +75,7 @@
 |ML-YouTube-Courses|[link](https://github.com/dair-ai/ML-YouTube-Courses)| [awesomeProject第17期](contents/20240212-20240218.md) |
 | 魔搭LLM实战训练营|[link](https://www.bilibili.com/video/BV1Fi4y1W7XW)| [awesomeProject第18期](contents/20240219-20240225.md) |
 |生成式人工智能导论（ 李宏毅） |[link](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring.php)| [awesomeProject第20期](contents/20240304-20240310.md) |
+| LLM 应用开发实践笔记|[link](https://aitutor.liduos.com/01-llm/01-1.html)| [awesomeProject第21期](contents/20240311-20240317.md) |
 
 
 
@@ -152,7 +154,11 @@
 |Prompt Library |[link](https://www.moreusefulthings.com/prompts)| [awesomeProject第20期](contents/20240304-20240310.md) |
 | Apollo|[link](https://github.com/FreedomIntelligence/Apollo)| [awesomeProject第20期](contents/20240304-20240310.md) |
 |TensorRT-LLM as OpenAI API on Windows  |[link](https://github.com/NVIDIA/trt-llm-as-openai-windows)| [awesomeProject第20期](contents/20240304-20240310.md) |
-| 几何图神经网络综述：数据结构、模型和应用|[link](https://github.com/RUC-GLAD/GGNN4Science)| [awesomeProject第20期](contents/20240304-20240310.md) |
+|LLMs高效框架nm-vllm  |[link](https://github.com/neuralmagic/nm-vllm)| [awesomeProject第21期](contents/20240311-20240317.md) |
+|与本地 LLMs 聊天的 Web 界面Ollama GUI |[link](https://github.com/HelgeSverre/ollama-gui)| [awesomeProject第21期](contents/20240311-20240317.md) |
+|Awesome Local AI |[link](https://github.com/janhq/awesome-local-ai)| [awesomeProject第21期](contents/20240311-20240317.md) |
+| Awesome Open-source Machine Learning for Developers|[link](https://github.com/merveenoyan/awesome-osml-for-devs)| [awesomeProject第21期](contents/20240311-20240317.md) |
+|小语言模型 |[link](https://github.com/shivendrra/SmallLanguageModel-project)| [awesomeProject第21期](contents/20240311-20240317.md) |
 
 
 ### Stable Diffusion
@@ -219,7 +225,7 @@
 |  自然语言处理项目&工具库&资源大全 |    [link](https://github.com/HanXinzi-AI/awesome-NLP-resources)  |  [awesomeProject第3期](contents/20231106-20231112.md) |
 | 计算机视觉项目&工具库&资源大全 |    [link](https://github.com/HanXinzi-AI/awesome-computer-vision-resources)  |  [awesomeProject第3期](contents/20231106-20231112.md) |
 |ML-Papers-of-the-Week  | [link](https://github.com/dair-ai/ML-Papers-of-the-Week)  | [awesomeProject第14期](contents/20240122-20240128.md) |
-
+| 几何图神经网络综述：数据结构、模型和应用|[link](https://github.com/RUC-GLAD/GGNN4Science)| [awesomeProject第20期](contents/20240304-20240310.md) |
 
 
 
@@ -239,7 +245,8 @@
 | AI副业赚钱资讯合集|    [link](https://github.com/bleedline/aimoneyhunter)  |  [awesomeProject第8期](contents/20231211-20231217.md) |
 | Big ideas in tech in 2024 |    [link](https://gamma.app/public/Big-Ideas-in-tech-in-2024-by-A16Z-phquomraxnzc1fs?mode=doc)  |  [awesomeProject第9期](contents/20231218-20231224.md) |
 | 用 RAGAs评估 RAG应用 [译] |    [link](https://baoyu.io/translations/rag/evaluating-rag-applications-with-ragas?continueFlag=5d10d34c97637bebcfeba6470c0f0d9b)  |  [awesomeProject第9期](contents/20231218-20231224.md) |
-
+| Sam Altman的创业手册|[link](https://jxp73q7qjsg.feishu.cn/docx/WCNZdKDa4o2eUrxK5ElcfBXEnah?continueFlag=3a6d0325757abca6e8cbb95b53b664d3)| [awesomeProject第21期](contents/20240311-20240317.md) |
+|全能的网络爬虫框架Botasaurus |[link](https://github.com/omkarcloud/botasaurus)| [awesomeProject第21期](contents/20240311-20240317.md) |
 
 ## 公众号
 
