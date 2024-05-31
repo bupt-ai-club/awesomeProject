@@ -7,27 +7,27 @@
 ## 项目目录
 
 
-- [awesomeProject第1期](contents/20231023-20231029.md)
-- [awesomeProject第2期](contents/20231030-20231105.md)
-- [awesomeProject第3期](contents/20231106-20231112.md)
-- [awesomeProject第4期](contents/20231113-20231119.md)
-- [awesomeProject第5期](contents/20231120-20231126.md)
-- [awesomeProject第6期](contents/20231127-20231203.md)
-- [awesomeProject第7期](contents/20231204-20231210.md)
-- [awesomeProject第8期](contents/20231211-20231217.md)
-- [awesomeProject第9期](contents/20231218-20231224.md)
-- [awesomeProject第10期](contents/20231225-20231231.md)
-- [awesomeProject第11期](contents/20240101-20240106.md)
-- [awesomeProject第12期](contents/20240107-20240113.md)
-- [awesomeProject第13期](contents/20240114-20240120.md)
-- [awesomeProject第14期](contents/20240122-20240128.md) 
-- [awesomeProject第15期](contents/202401229-20240204.md) 
-- [awesomeProject第16期](contents/20240205-20240211.md)
-- [awesomeProject第17期](contents/20240212-20240218.md)
-- [awesomeProject第18期](contents/20240219-20240225.md)
-- [awesomeProject第19期](contents/20240226-20240303.md)
-- [awesomeProject第20期](contents/20240304-20240310.md)
-- [awesomeProject第21期](contents/20240311-20240317.md)
+- [awesomeProject第1期](contents/20231023-20231029/20231023-20231029.md)
+- [awesomeProject第2期](contents/20231030-20231105/20231030-20231105.md)
+- [awesomeProject第3期](contents/20231106-20231112/20231106-20231112.md)
+- [awesomeProject第4期](contents/20231113-20231119/20231113-20231119.md)
+- [awesomeProject第5期](contents/20231120-20231126/20231120-20231126.md)
+- [awesomeProject第6期](contents/20231127-20231203/20231127-20231203.md)
+- [awesomeProject第7期](contents/20231204-20231210/20231204-20231210.md)
+- [awesomeProject第8期](contents/20231211-20231217/20231211-20231217.md)
+- [awesomeProject第9期](contents/20231218-20231224/20231218-20231224.md)
+- [awesomeProject第10期](contents/20231225-20231231/20231225-20231231.md)
+- [awesomeProject第11期](contents/20240101-20240106/20240101-20240106.md)
+- [awesomeProject第12期](contents/20240107-20240113/20240107-20240113.md)
+- [awesomeProject第13期](contents/20240114-20240120/20240114-20240120.md)
+- [awesomeProject第14期](contents/20240122-20240128/20240122-20240128.md) 
+- [awesomeProject第15期](contents/20240129-20240204/20240129-20240204.md) 
+- [awesomeProject第16期](contents/20240205-20240211/20240205-20240211.md)
+- [awesomeProject第17期](contents/20240212-20240218/20240212-20240218.md)
+- [awesomeProject第18期](contents/20240219-20240225/20240219-20240225.md)
+- [awesomeProject第19期](contents/20240226-20240303/20240226-20240303.md)
+- [awesomeProject第20期](contents/20240304-20240310/20240304-20240310.md)
+- [awesomeProject第21期](contents/20240311-20240317/20240311-20240317.md)
 
 ## 专题目录
 
@@ -40,42 +40,42 @@
 
 | 名字 |   地址 | 简介 | 
 | ---- |  ---- | ---- |  
-|   deep-compression   |    [link](https://github.com/jack-willturner/deep-compression)  |  [awesomeProject第1期](contents/20231023-20231029.md)    |
-|   Awesome-Pruning   |    [link](https://github.com/he-y/Awesome-Pruning)  |  [awesomeProject第1期](contents/20231023-20231029.md)    |
-|  Efficient-Deep-Learning |    [link](https://github.com/MingSun-Tse/Efficient-Deep-Learning)  |  [awesomeProject第1期](contents/20231023-20231029.md)    |
-|  Awesome Efficient LLM |    [link](https://github.com/horseee/Awesome-Efficient-LLM)  |  [awesomeProject第3期](contents/20231106-20231112.md) |
+|   deep-compression   |    [link](https://github.com/jack-willturner/deep-compression)  |  [awesomeProject第1期](contents/20231023-20231029/20231023-20231029.md)    |
+|   Awesome-Pruning   |    [link](https://github.com/he-y/Awesome-Pruning)  |  [awesomeProject第1期](contents/20231023-20231029/20231023-20231029.md)    |
+|  Efficient-Deep-Learning |    [link](https://github.com/MingSun-Tse/Efficient-Deep-Learning)  |  [awesomeProject第1期](contents/20231023-20231029/20231023-20231029.md)    |
+|  Awesome Efficient LLM |    [link](https://github.com/horseee/Awesome-Efficient-LLM)  |  [awesomeProject第3期](contents/20231106-20231112/20231106-20231112.md) |
 
 
 ### AI课程
 
 | 名字 |   地址 | 简介 | 
 | ---- |  ---- | ---- |  
-|  dlsyscourse  |    [link](https://dlsyscourse.org/lectures/)  |  [awesomeProject第1期](contents/20231023-20231029.md)    |
-| 生成式AI|    [link](https://github.com/microsoft/generative-ai-for-beginners)  |  [awesomeProject第2期](contents/20231030-20231105.md)    |
-|   Llama2 入门指南|    [link](https://ai.meta.com/llama/get-started)  |  [awesomeProject第2期](contents/20231030-20231105.md)    |
-| ChatGPT 正在产生心智吗 |    [link](https://www.bilibili.com/video/BV1uu4y1m7ak)  |  [awesomeProject第3期](contents/20231106-20231112.md) |
-| Generative AI with Large Language Models |    [link](https://www.coursera.org/learn/generative-ai-with-llms)  |  [awesomeProject第4期](contents/20231113-20231119.md) |
-| LLM 应用开发实践笔记 |    [link](https://github.com/morsoli/llm-books)  |  [awesomeProject第4期](contents/20231113-20231119.md) |
-| enerative AI Learning Path |    [link](https://cloudskillsboost.google/journeys/118)  |  [awesomeProject第4期](contents/20231113-20231119.md) |
-|11-667: Large Language Models Methods and Application  |    [link](https://cmu-llms.org)  |  [awesomeProject第4期](contents/20231113-20231119.md) |
-|如何阅读一篇论文  |    [link](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)  |  [awesomeProject第5期](contents/20231120-20231126.md) |
-| AI教程 |    [link](https://space.bilibili.com/3129054/channel/collectiondetail?sid=874339)  |  [awesomeProject第7期](contents/20231204-20231210.md) |
-| ICML2023_Tutorial on Multimodal Machine Learning |    [link](https://wwqu.lanzouq.com/iFsgq1h81osf)  |  [awesomeProject第7期](contents/20231204-20231210.md) |
-| LLM训练指南llm-training |    [link](https://rentry.co/llm-training)  |  [awesomeProject第8期](contents/20231211-20231217.md) |
-| CS183B 怎样创立一家创业公司 |    [link]( https://cs183.apachecn.org/#/docs/b/README)  |  [awesomeProject第8期](contents/20231211-20231217.md) |
-| 2024 年学习生成式 AI 路线图 |    [link](https://github.com/krishnaik06/Roadmap-To-Learn-Generative-AI-In-2024)  |  [awesomeProject第9期](contents/20231218-20231224.md) |
-| 学会与 GitHub Copilot 进行 AI 结对编程 |    [link](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming)  |  [awesomeProject第9期](contents/20231218-20231224.md) |
-| 大模型课程llm-course  |    [link](https://github.com/mlabonne/llm-course)  |  [awesomeProject第11期](contents/20240101-20240106.md) |
-| LLM课程  |    [link](https://github.com/peremartra/Large-Language-Model-Notebooks-Course)  |  [awesomeProject第12期](contents/20240107-20240113.md) |
-| CS479: Machine Learning for 3D Data  |    [link](https://mhsung.github.io/kaist-cs479-fall-2023)  |  [awesomeProject第12期](contents/20240107-20240113.md) |
-|  Docker 速成课程  |    [link](https://github.com/adrianhajdin/docker-course)  |  [awesomeProject第12期](contents/20240107-20240113.md) |
-|  提示工程 Prompt Engineering 指南 |    [link](https://realpython.com/practical-prompt-engineering/)  | [awesomeProject第13期](contents/20240114-20240120.md) |
-|  从头开始构建大型语言模型 |    [link](https://github.com/rasbt/LLMs-from-scratch/tree/main)  | [awesomeProject第13期](contents/20240114-20240120.md) |
-| Deep Learning for Music Analysis and Generation|[link](https://github.com/affige/DeepMIR)| [awesomeProject第15期](contents/202401229-20240204.md) |
-|ML-YouTube-Courses|[link](https://github.com/dair-ai/ML-YouTube-Courses)| [awesomeProject第17期](contents/20240212-20240218.md) |
-| 魔搭LLM实战训练营|[link](https://www.bilibili.com/video/BV1Fi4y1W7XW)| [awesomeProject第18期](contents/20240219-20240225.md) |
-|生成式人工智能导论（ 李宏毅） |[link](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring.php)| [awesomeProject第20期](contents/20240304-20240310.md) |
-| LLM 应用开发实践笔记|[link](https://aitutor.liduos.com/01-llm/01-1.html)| [awesomeProject第21期](contents/20240311-20240317.md) |
+|  dlsyscourse  |    [link](https://dlsyscourse.org/lectures/)  |  [awesomeProject第1期](contents/20231023-20231029/20231023-20231029.md)    |
+| 生成式AI|    [link](https://github.com/microsoft/generative-ai-for-beginners)  |  [awesomeProject第2期](contents/20231030-20231105/20231030-20231105.md)    |
+|   Llama2 入门指南|    [link](https://ai.meta.com/llama/get-started)  |  [awesomeProject第2期](contents/20231030-20231105/20231030-20231105.md)    |
+| ChatGPT 正在产生心智吗 |    [link](https://www.bilibili.com/video/BV1uu4y1m7ak)  |  [awesomeProject第3期](contents/20231106-20231112/20231106-20231112.md) |
+| Generative AI with Large Language Models |    [link](https://www.coursera.org/learn/generative-ai-with-llms)  |  [awesomeProject第4期](contents/20231113-20231119/20231113-20231119.md) |
+| LLM 应用开发实践笔记 |    [link](https://github.com/morsoli/llm-books)  |  [awesomeProject第4期](contents/20231113-20231119/20231113-20231119.md) |
+| enerative AI Learning Path |    [link](https://cloudskillsboost.google/journeys/118)  |  [awesomeProject第4期](contents/20231113-20231119/20231113-20231119.md) |
+|11-667: Large Language Models Methods and Application  |    [link](https://cmu-llms.org)  |  [awesomeProject第4期](contents/20231113-20231119/20231113-20231119.md) |
+|如何阅读一篇论文  |    [link](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)  |  [awesomeProject第5期](contents/20231120-20231126/20231120-20231126.md) |
+| AI教程 |    [link](https://space.bilibili.com/3129054/channel/collectiondetail?sid=874339)  |  [awesomeProject第7期](contents/20231204-20231210/20231204-20231210.md) |
+| ICML2023_Tutorial on Multimodal Machine Learning |    [link](https://wwqu.lanzouq.com/iFsgq1h81osf)  |  [awesomeProject第7期](contents/20231204-20231210/20231204-20231210.md) |
+| LLM训练指南llm-training |    [link](https://rentry.co/llm-training)  |  [awesomeProject第8期](contents/20231211-20231217/20231211-20231217.md) |
+| CS183B 怎样创立一家创业公司 |    [link]( https://cs183.apachecn.org/#/docs/b/README)  |  [awesomeProject第8期](contents/20231211-20231217/20231211-20231217.md) |
+| 2024 年学习生成式 AI 路线图 |    [link](https://github.com/krishnaik06/Roadmap-To-Learn-Generative-AI-In-2024)  |  [awesomeProject第9期](contents/20231218-20231224/20231218-20231224.md) |
+| 学会与 GitHub Copilot 进行 AI 结对编程 |    [link](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming)  |  [awesomeProject第9期](contents/20231218-20231224/20231218-20231224.md) |
+| 大模型课程llm-course  |    [link](https://github.com/mlabonne/llm-course)  |  [awesomeProject第11期](contents/20240101-20240106/20240101-20240106.md) |
+| LLM课程  |    [link](https://github.com/peremartra/Large-Language-Model-Notebooks-Course)  |  [awesomeProject第12期](contents/20240107-20240113/20240107-20240113.md) |
+| CS479: Machine Learning for 3D Data  |    [link](https://mhsung.github.io/kaist-cs479-fall-2023)  |  [awesomeProject第12期](contents/20240107-20240113/20240107-20240113.md) |
+|  Docker 速成课程  |    [link](https://github.com/adrianhajdin/docker-course)  |  [awesomeProject第12期](contents/20240107-20240113/20240107-20240113.md) |
+|  提示工程 Prompt Engineering 指南 |    [link](https://realpython.com/practical-prompt-engineering/)  | [awesomeProject第13期](contents/20240114-20240120/20240114-20240120.md) |
+|  从头开始构建大型语言模型 |    [link](https://github.com/rasbt/LLMs-from-scratch/tree/main)  | [awesomeProject第13期](contents/20240114-20240120/20240114-20240120.md) |
+| Deep Learning for Music Analysis and Generation|[link](https://github.com/affige/DeepMIR)| [awesomeProject第15期](contents/20240129-20240204/20240129-20240204.md) |
+|ML-YouTube-Courses|[link](https://github.com/dair-ai/ML-YouTube-Courses)| [awesomeProject第17期](contents/20240212-20240218/20240212-20240218.md) |
+| 魔搭LLM实战训练营|[link](https://www.bilibili.com/video/BV1Fi4y1W7XW)| [awesomeProject第18期](contents/20240219-20240225/20240219-20240225.md) |
+|生成式人工智能导论（ 李宏毅） |[link](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring.php)| [awesomeProject第20期](contents/20240304-20240310/20240304-20240310.md) |
+| LLM 应用开发实践笔记|[link](https://aitutor.liduos.com/01-llm/01-1.html)| [awesomeProject第21期](contents/20240311-20240317/20240311-20240317.md) |
 
 
 
@@ -84,148 +84,148 @@
 
 | 名字 |   地址 | 简介 | 
 | ---- |  ---- | ---- |  
-|  awesome-llm  |    [link](https://gitee.com/oschina/awesome-llm)  |  [awesomeProject第1期](contents/20231023-20231029.md)    |
-|  llm-map  |    [link](https://gitee.com/oschina/llm-map)  |  [awesomeProject第1期](contents/20231023-20231029.md)    |
-|  llm-action |    [link](https://github.com/liguodongiot/llm-action)  |  [awesomeProject第1期](contents/20231023-20231029.md)    |
-|   Prompt Engineering Guide |    [link](https://www.promptingguide.ai/zh)  |  [awesomeProject第2期](contents/20231030-20231105.md)    |
-|  prompt-engineering-for-developers |    [link](https://datawhalechina.github.io/prompt-engineering-for-developers/)  |  [awesomeProject第2期](contents/20231030-20231105.md)    |
-|   GATE|    [link](https://github.com/alextamkin/generative-elicitation )  |  [awesomeProject第2期](contents/20231030-20231105.md)    |
-|   langeval|    [link](https://github.com/ninehills/langeval )  |  [awesomeProject第2期](contents/20231030-20231105.md)    |
-|   LLM-Agent-Paper-List|    [link](https://github.com/WooooDyy/LLM-Agent-Paper-List )  |  [awesomeProject第2期](contents/20231030-20231105.md)    |
-|  litellm|    [link](https://github.com/BerriAI/litellm)  |  [awesomeProject第2期](contents/20231030-20231105.md)    |
-|  GPT-Fathom|    [link](https://github.com/GPT-Fathom/GPT-Fathom)  |  [awesomeProject第2期](contents/20231030-20231105.md)    |
-| Awesome AI Agents |    [link](https://github.com/e2b-dev/awesome-ai-agents)  |  [awesomeProject第3期](contents/20231106-20231112.md) |
-| LLaMA Rider |    [link](https://github.com/PKU-RL/LLaMA-Rider)  |  [awesomeProject第3期](contents/20231106-20231112.md) |
-| GPTsHunter |    [link](https://www.gptshunter.com)  |  [awesomeProject第3期](contents/20231106-20231112.md) |
-| LLMs九层妖塔|    [link](https://github.com/km1994/LLMsNineStoryDemonTower)  |  [awesomeProject第7期](contents/20231204-20231210.md) |
-| LLM大模型训练专栏 |    [link](https://www.zhihu.com/column/c_1252604770952642560)  |  [awesomeProject第7期](contents/20231204-20231210.md) |
-| Awesome-Domain-LLM |    [link](https://github.com/luban-agi/Awesome-Domain-LLM)  |  [awesomeProject第7期](contents/20231204-20231210.md) |
-| DecryptPrompt |    [link](https://github.com/DSXiangLi/DecryptPrompt)  |  [awesomeProject第7期](contents/20231204-20231210.md) |
-|Awesome Pretrained Chinese NLP Models  |    [link](https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models)  |  [awesomeProject第7期](contents/20231204-20231210.md) |
-|LLM-Zoo  |    [link](https://github.com/DAMO-NLP-SG/LLM-Zoo)  |  [awesomeProject第8期](contents/20231211-20231217.md) |
-| LLMs-In-China |    [link](https://github.com/wgwang/LLMs-In-China)  |  [awesomeProject第8期](contents/20231211-20231217.md) |
-| BMList |    [link](https://github.com/OpenBMB/BMList)  |  [awesomeProject第8期](contents/20231211-20231217.md) |
-| GPTs |    [link](https://github.com/linexjlin/GPTs)  |  [awesomeProject第8期](contents/20231211-20231217.md) |
-| CLoT |    [link](https://github.com/sail-sg/CLoT)  |  [awesomeProject第8期](contents/20231211-20231217.md) |
-|RAG 综述   |    [link](https://arxiv.org/abs/2312.10997)  |  [awesomeProject第9期](contents/20231218-20231224.md) |
-| Stanford Alpaca  |    [link](https://github.com/tatsu-lab/stanford_alpaca)  |  [awesomeProject第11期](contents/20240101-20240106.md) |
-|  OpenLLaMA |    [link](https://github.com/openlm-research/open_llama)  |  [awesomeProject第11期](contents/20240101-20240106.md) |
-| AutoGen  |    [link](https://github.com/microsoft/autogen)  |  [awesomeProject第11期](contents/20240101-20240106.md) |
-| 大型语言模型实用指南  |    [link](https://github.com/Mooler0410/LLMsPracticalGuide)  |  [awesomeProject第11期](contents/20240101-20240106.md) |
-|  mlc-llm |    [link](https://github.com/mlc-ai/mlc-llm)  |  [awesomeProject第12期](contents/20240107-20240113.md) |
-|  高效微调 PEFT |    [link](https://github.com/huggingface/peft)  |  [awesomeProject第12期](contents/20240107-20240113.md) |
-| Alpaca-LoRA  |    [link](https://github.com/tloen/alpaca-lora)  |  [awesomeProject第12期](contents/20240107-20240113.md) |
-| 手把手教你构建基于RAG的LLM应用  |    [link](https://github.com/ray-project/llm-applications)  |  [awesomeProject第12期](contents/20240107-20240113.md) |
-|  ChatLM-mini-Chinese（0.2B） |    [link](https://github.com/charent/ChatLM-mini-Chinese)  | [awesomeProject第13期](contents/20240114-20240120.md) |
-| AI 研发提效研究：自己动手训练 LoRA  |    [link](https://github.com/unit-mesh/unit-minions)  | [awesomeProject第13期](contents/20240114-20240120.md) |
-|  KG_RAG |    [link](https://github.com/BaranziniLab/KG_RAG)  | [awesomeProject第13期](contents/20240114-20240120.md) |
-| 高效人工智能推理和服务SwiftInfer  |    [link](https://github.com/hpcaitech/SwiftInfer)  | [awesomeProject第13期](contents/20240114-20240120.md) |
-|MBTI大模型   |    [link](https://github.com/PKU-YuanGroup/Machine-Mindset)  | [awesomeProject第13期](contents/20240114-20240120.md) |
-|  Haystack |    [link](https://github.com/deepset-ai/haystack)  | [awesomeProject第13期](contents/20240114-20240120.md) |
-|Inferflow  |    [link](https://github.com/inferflow/inferflow)  | [awesomeProject第14期](contents/20240122-20240128.md) |
-| Efficient LLM and Multimodal Foundation Model Survey |    [link](https://github.com/UbiquitousLearning/Efficient_Foundation_Model_Survey)  | [awesomeProject第14期](contents/20240122-20240128.md) |
-| DataTrove |    [link](https://github.com/huggingface/datatrove)  | [awesomeProject第14期](contents/20240122-20240128.md) |
-| Distributed Llama |    [link](https://github.com/b4rtaz/distributed-llama)  | [awesomeProject第14期](contents/20240122-20240128.md) |
-| llm-books |[link](https://github.com/morsoli/llm-books)| [awesomeProject第15期](contents/202401229-20240204.md) |
-| MiniCPM: 揭示端侧大语言模型的无限潜力|[link](https://github.com/allenai/OLMo)| [awesomeProject第15期](contents/202401229-20240204.md) |
-| OLMo|[link](https://github.com/allenai/OLMo)| [awesomeProject第15期](contents/202401229-20240204.md) |
-|OmniLMM |[link](https://github.com/OpenBMB/OmniLMM)| [awesomeProject第15期](contents/202401229-20240204.md) |
-|Autonomous Agents |[link](https://github.com/tmgthb/Autonomous-Agents)| [awesomeProject第15期](contents/202401229-20240204.md) |
-|Awesome-Medical-Large-Language-Models|[link](https://github.com/burglarhobbit/Awesome-Medical-Large-Language-Models)| [awesomeProject第16期](contents/20240205-20240211.md) |
-|SegMoE: Segmind Mixture of Diffusion Experts|[link](https://github.com/segmind/segmoe)| [awesomeProject第16期](contents/20240205-20240211.md) |
-|Qwen1.5|[link](https://github.com/QwenLM/Qwen1.5)| [awesomeProject第16期](contents/20240205-20240211.md) |
-|coze-discord-proxy|[link](https://github.com/deanxv/coze-discord-proxy)| [awesomeProject第16期](contents/20240205-20240211.md) |
-|Tabular LLM：构建面向表格智能任务的大型语言模型|[link](https://github.com/SpursGoZmy/Tabular-LLM)| [awesomeProject第16期](contents/20240205-20240211.md) |
-|Embedchain|[link](https://github.com/embedchain/embedchain)| [awesomeProject第16期](contents/20240205-20240211.md) |
-|Ragas|[link](https://github.com/explodinggradients/ragas)| [awesomeProject第16期](contents/20240205-20240211.md) |
-|fastRAG|[link](https://github.com/IntelLabs/fastRAG)| [awesomeProject第16期](contents/20240205-20240211.md) |
-|DLRover：自动分布式深度学习系统|[link](https://github.com/IntelLabs/fastRAG)| [awesomeProject第16期](contents/20240205-20240211.md) |
-|GPTScript|[link](https://github.com/gptscript-ai/gptscript)| [awesomeProject第17期](contents/20240212-20240218.md) |
-|Multi-Agent-GPT|[link](https://github.com/YangXuanyi/Multi-Agent-GPT)| [awesomeProject第17期](contents/20240212-20240218.md) |
-|开源Agent框架InfiAgent|[link](https://github.com/InfiAgent/InfiAgent)| [awesomeProject第17期](contents/20240212-20240218.md) |
-|ai-benchmarks|[link](https://github.com/fixie-ai/ai-benchmarks)| [awesomeProject第17期](contents/20240212-20240218.md) |
-|Web LLM|[link](https://github.com/mlc-ai/web-llm)| [awesomeProject第17期](contents/20240212-20240218.md) |
-|QAnything|[link](https://github.com/netease-youdao/QAnything)| [awesomeProject第17期](contents/20240212-20240218.md) |
-|Jan|[link](https://github.com/janhq/jan)| [awesomeProject第17期](contents/20240212-20240218.md) |
-| Sora原理与技术实战|[link](https://datawhaler.feishu.cn/wiki/RKrCw5YY1iNXDHkeYA5cOF4qnkb)| [awesomeProject第18期](contents/20240219-20240225.md) |
-|OpenAI视频生成模型Sora的全面解析 |[link](https://blog.csdn.net/v_JULY_v/article/details/136143475)| [awesomeProject第18期](contents/20240219-20240225.md) |
-|Sora AI 视频生成器 |[link](https://github.com/all-in-aigc/sorafm)| [awesomeProject第18期](contents/20240219-20240225.md) |
-|​​Hugging Multi-Agent |[link](https://github.com/datawhalechina/hugging-multi-agent)| [awesomeProject第18期](contents/20240219-20240225.md) |
-|Prompt Library |[link](https://www.moreusefulthings.com/prompts)| [awesomeProject第20期](contents/20240304-20240310.md) |
-| Apollo|[link](https://github.com/FreedomIntelligence/Apollo)| [awesomeProject第20期](contents/20240304-20240310.md) |
-|TensorRT-LLM as OpenAI API on Windows  |[link](https://github.com/NVIDIA/trt-llm-as-openai-windows)| [awesomeProject第20期](contents/20240304-20240310.md) |
-|LLMs高效框架nm-vllm  |[link](https://github.com/neuralmagic/nm-vllm)| [awesomeProject第21期](contents/20240311-20240317.md) |
-|与本地 LLMs 聊天的 Web 界面Ollama GUI |[link](https://github.com/HelgeSverre/ollama-gui)| [awesomeProject第21期](contents/20240311-20240317.md) |
-|Awesome Local AI |[link](https://github.com/janhq/awesome-local-ai)| [awesomeProject第21期](contents/20240311-20240317.md) |
-| Awesome Open-source Machine Learning for Developers|[link](https://github.com/merveenoyan/awesome-osml-for-devs)| [awesomeProject第21期](contents/20240311-20240317.md) |
-|小语言模型 |[link](https://github.com/shivendrra/SmallLanguageModel-project)| [awesomeProject第21期](contents/20240311-20240317.md) |
+|  awesome-llm  |    [link](https://gitee.com/oschina/awesome-llm)  |  [awesomeProject第1期](contents/20231023-20231029/20231023-20231029.md)    |
+|  llm-map  |    [link](https://gitee.com/oschina/llm-map)  |  [awesomeProject第1期](contents/20231023-20231029/20231023-20231029.md)    |
+|  llm-action |    [link](https://github.com/liguodongiot/llm-action)  |  [awesomeProject第1期](contents/20231023-20231029/20231023-20231029.md)    |
+|   Prompt Engineering Guide |    [link](https://www.promptingguide.ai/zh)  |  [awesomeProject第2期](contents/20231030-20231105/20231030-20231105.md)    |
+|  prompt-engineering-for-developers |    [link](https://datawhalechina.github.io/prompt-engineering-for-developers/)  |  [awesomeProject第2期](contents/20231030-20231105/20231030-20231105.md)    |
+|   GATE|    [link](https://github.com/alextamkin/generative-elicitation )  |  [awesomeProject第2期](contents/20231030-20231105/20231030-20231105.md)    |
+|   langeval|    [link](https://github.com/ninehills/langeval )  |  [awesomeProject第2期](contents/20231030-20231105/20231030-20231105.md)    |
+|   LLM-Agent-Paper-List|    [link](https://github.com/WooooDyy/LLM-Agent-Paper-List )  |  [awesomeProject第2期](contents/20231030-20231105/20231030-20231105.md)    |
+|  litellm|    [link](https://github.com/BerriAI/litellm)  |  [awesomeProject第2期](contents/20231030-20231105/20231030-20231105.md)    |
+|  GPT-Fathom|    [link](https://github.com/GPT-Fathom/GPT-Fathom)  |  [awesomeProject第2期](contents/20231030-20231105/20231030-20231105.md)    |
+| Awesome AI Agents |    [link](https://github.com/e2b-dev/awesome-ai-agents)  |  [awesomeProject第3期](contents/20231106-20231112/20231106-20231112.md) |
+| LLaMA Rider |    [link](https://github.com/PKU-RL/LLaMA-Rider)  |  [awesomeProject第3期](contents/20231106-20231112/20231106-20231112.md) |
+| GPTsHunter |    [link](https://www.gptshunter.com)  |  [awesomeProject第3期](contents/20231106-20231112/20231106-20231112.md) |
+| LLMs九层妖塔|    [link](https://github.com/km1994/LLMsNineStoryDemonTower)  |  [awesomeProject第7期](contents/20231204-20231210/20231204-20231210.md) |
+| LLM大模型训练专栏 |    [link](https://www.zhihu.com/column/c_1252604770952642560)  |  [awesomeProject第7期](contents/20231204-20231210/20231204-20231210.md) |
+| Awesome-Domain-LLM |    [link](https://github.com/luban-agi/Awesome-Domain-LLM)  |  [awesomeProject第7期](contents/20231204-20231210/20231204-20231210.md) |
+| DecryptPrompt |    [link](https://github.com/DSXiangLi/DecryptPrompt)  |  [awesomeProject第7期](contents/20231204-20231210/20231204-20231210.md) |
+|Awesome Pretrained Chinese NLP Models  |    [link](https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models)  |  [awesomeProject第7期](contents/20231204-20231210/20231204-20231210.md) |
+|LLM-Zoo  |    [link](https://github.com/DAMO-NLP-SG/LLM-Zoo)  |  [awesomeProject第8期](contents/20231211-20231217/20231211-20231217.md) |
+| LLMs-In-China |    [link](https://github.com/wgwang/LLMs-In-China)  |  [awesomeProject第8期](contents/20231211-20231217/20231211-20231217.md) |
+| BMList |    [link](https://github.com/OpenBMB/BMList)  |  [awesomeProject第8期](contents/20231211-20231217/20231211-20231217.md) |
+| GPTs |    [link](https://github.com/linexjlin/GPTs)  |  [awesomeProject第8期](contents/20231211-20231217/20231211-20231217.md) |
+| CLoT |    [link](https://github.com/sail-sg/CLoT)  |  [awesomeProject第8期](contents/20231211-20231217/20231211-20231217.md) |
+|RAG 综述   |    [link](https://arxiv.org/abs/2312.10997)  |  [awesomeProject第9期](contents/20231218-20231224/20231218-20231224.md) |
+| Stanford Alpaca  |    [link](https://github.com/tatsu-lab/stanford_alpaca)  |  [awesomeProject第11期](contents/20240101-20240106/20240101-20240106.md) |
+|  OpenLLaMA |    [link](https://github.com/openlm-research/open_llama)  |  [awesomeProject第11期](contents/20240101-20240106/20240101-20240106.md) |
+| AutoGen  |    [link](https://github.com/microsoft/autogen)  |  [awesomeProject第11期](contents/20240101-20240106/20240101-20240106.md) |
+| 大型语言模型实用指南  |    [link](https://github.com/Mooler0410/LLMsPracticalGuide)  |  [awesomeProject第11期](contents/20240101-20240106/20240101-20240106.md) |
+|  mlc-llm |    [link](https://github.com/mlc-ai/mlc-llm)  |  [awesomeProject第12期](contents/20240107-20240113/20240107-20240113.md) |
+|  高效微调 PEFT |    [link](https://github.com/huggingface/peft)  |  [awesomeProject第12期](contents/20240107-20240113/20240107-20240113.md) |
+| Alpaca-LoRA  |    [link](https://github.com/tloen/alpaca-lora)  |  [awesomeProject第12期](contents/20240107-20240113/20240107-20240113.md) |
+| 手把手教你构建基于RAG的LLM应用  |    [link](https://github.com/ray-project/llm-applications)  |  [awesomeProject第12期](contents/20240107-20240113/20240107-20240113.md) |
+|  ChatLM-mini-Chinese（0.2B） |    [link](https://github.com/charent/ChatLM-mini-Chinese)  | [awesomeProject第13期](contents/20240114-20240120/20240114-20240120.md) |
+| AI 研发提效研究：自己动手训练 LoRA  |    [link](https://github.com/unit-mesh/unit-minions)  | [awesomeProject第13期](contents/20240114-20240120/20240114-20240120.md) |
+|  KG_RAG |    [link](https://github.com/BaranziniLab/KG_RAG)  | [awesomeProject第13期](contents/20240114-20240120/20240114-20240120.md) |
+| 高效人工智能推理和服务SwiftInfer  |    [link](https://github.com/hpcaitech/SwiftInfer)  | [awesomeProject第13期](contents/20240114-20240120/20240114-20240120.md) |
+|MBTI大模型   |    [link](https://github.com/PKU-YuanGroup/Machine-Mindset)  | [awesomeProject第13期](contents/20240114-20240120/20240114-20240120.md) |
+|  Haystack |    [link](https://github.com/deepset-ai/haystack)  | [awesomeProject第13期](contents/20240114-20240120/20240114-20240120.md) |
+|Inferflow  |    [link](https://github.com/inferflow/inferflow)  | [awesomeProject第14期](contents/20240122-20240128/20240122-20240128.md) |
+| Efficient LLM and Multimodal Foundation Model Survey |    [link](https://github.com/UbiquitousLearning/Efficient_Foundation_Model_Survey)  | [awesomeProject第14期](contents/20240122-20240128/20240122-20240128.md) |
+| DataTrove |    [link](https://github.com/huggingface/datatrove)  | [awesomeProject第14期](contents/20240122-20240128/20240122-20240128.md) |
+| Distributed Llama |    [link](https://github.com/b4rtaz/distributed-llama)  | [awesomeProject第14期](contents/20240122-20240128/20240122-20240128.md) |
+| llm-books |[link](https://github.com/morsoli/llm-books)| [awesomeProject第15期](contents/20240129-20240204/20240129-20240204.md) |
+| MiniCPM: 揭示端侧大语言模型的无限潜力|[link](https://github.com/allenai/OLMo)| [awesomeProject第15期](contents/20240129-20240204/20240129-20240204.md) |
+| OLMo|[link](https://github.com/allenai/OLMo)| [awesomeProject第15期](contents/20240129-20240204/20240129-20240204.md) |
+|OmniLMM |[link](https://github.com/OpenBMB/OmniLMM)| [awesomeProject第15期](contents/20240129-20240204/20240129-20240204.md) |
+|Autonomous Agents |[link](https://github.com/tmgthb/Autonomous-Agents)| [awesomeProject第15期](contents/20240129-20240204/20240129-20240204.md) |
+|Awesome-Medical-Large-Language-Models|[link](https://github.com/burglarhobbit/Awesome-Medical-Large-Language-Models)| [awesomeProject第16期](contents/20240205-20240211/20240205-20240211.md) |
+|SegMoE: Segmind Mixture of Diffusion Experts|[link](https://github.com/segmind/segmoe)| [awesomeProject第16期](contents/20240205-20240211/20240205-20240211.md) |
+|Qwen1.5|[link](https://github.com/QwenLM/Qwen1.5)| [awesomeProject第16期](contents/20240205-20240211/20240205-20240211.md) |
+|coze-discord-proxy|[link](https://github.com/deanxv/coze-discord-proxy)| [awesomeProject第16期](contents/20240205-20240211/20240205-20240211.md) |
+|Tabular LLM：构建面向表格智能任务的大型语言模型|[link](https://github.com/SpursGoZmy/Tabular-LLM)| [awesomeProject第16期](contents/20240205-20240211/20240205-20240211.md) |
+|Embedchain|[link](https://github.com/embedchain/embedchain)| [awesomeProject第16期](contents/20240205-20240211/20240205-20240211.md) |
+|Ragas|[link](https://github.com/explodinggradients/ragas)| [awesomeProject第16期](contents/20240205-20240211/20240205-20240211.md) |
+|fastRAG|[link](https://github.com/IntelLabs/fastRAG)| [awesomeProject第16期](contents/20240205-20240211/20240205-20240211.md) |
+|DLRover：自动分布式深度学习系统|[link](https://github.com/IntelLabs/fastRAG)| [awesomeProject第16期](contents/20240205-20240211/20240205-20240211.md) |
+|GPTScript|[link](https://github.com/gptscript-ai/gptscript)| [awesomeProject第17期](contents/20240212-20240218/20240212-20240218.md) |
+|Multi-Agent-GPT|[link](https://github.com/YangXuanyi/Multi-Agent-GPT)| [awesomeProject第17期](contents/20240212-20240218/20240212-20240218.md) |
+|开源Agent框架InfiAgent|[link](https://github.com/InfiAgent/InfiAgent)| [awesomeProject第17期](contents/20240212-20240218/20240212-20240218.md) |
+|ai-benchmarks|[link](https://github.com/fixie-ai/ai-benchmarks)| [awesomeProject第17期](contents/20240212-20240218/20240212-20240218.md) |
+|Web LLM|[link](https://github.com/mlc-ai/web-llm)| [awesomeProject第17期](contents/20240212-20240218/20240212-20240218.md) |
+|QAnything|[link](https://github.com/netease-youdao/QAnything)| [awesomeProject第17期](contents/20240212-20240218/20240212-20240218.md) |
+|Jan|[link](https://github.com/janhq/jan)| [awesomeProject第17期](contents/20240212-20240218/20240212-20240218.md) |
+| Sora原理与技术实战|[link](https://datawhaler.feishu.cn/wiki/RKrCw5YY1iNXDHkeYA5cOF4qnkb)| [awesomeProject第18期](contents/20240219-20240225/20240219-20240225.md) |
+|OpenAI视频生成模型Sora的全面解析 |[link](https://blog.csdn.net/v_JULY_v/article/details/136143475)| [awesomeProject第18期](contents/20240219-20240225/20240219-20240225.md) |
+|Sora AI 视频生成器 |[link](https://github.com/all-in-aigc/sorafm)| [awesomeProject第18期](contents/20240219-20240225/20240219-20240225.md) |
+|​​Hugging Multi-Agent |[link](https://github.com/datawhalechina/hugging-multi-agent)| [awesomeProject第18期](contents/20240219-20240225/20240219-20240225.md) |
+|Prompt Library |[link](https://www.moreusefulthings.com/prompts)| [awesomeProject第20期](contents/20240304-20240310/20240304-20240310.md) |
+| Apollo|[link](https://github.com/FreedomIntelligence/Apollo)| [awesomeProject第20期](contents/20240304-20240310/20240304-20240310.md) |
+|TensorRT-LLM as OpenAI API on Windows  |[link](https://github.com/NVIDIA/trt-llm-as-openai-windows)| [awesomeProject第20期](contents/20240304-20240310/20240304-20240310.md) |
+|LLMs高效框架nm-vllm  |[link](https://github.com/neuralmagic/nm-vllm)| [awesomeProject第21期](contents/20240311-20240317/20240311-20240317.md) |
+|与本地 LLMs 聊天的 Web 界面Ollama GUI |[link](https://github.com/HelgeSverre/ollama-gui)| [awesomeProject第21期](contents/20240311-20240317/20240311-20240317.md) |
+|Awesome Local AI |[link](https://github.com/janhq/awesome-local-ai)| [awesomeProject第21期](contents/20240311-20240317/20240311-20240317.md) |
+| Awesome Open-source Machine Learning for Developers|[link](https://github.com/merveenoyan/awesome-osml-for-devs)| [awesomeProject第21期](contents/20240311-20240317/20240311-20240317.md) |
+|小语言模型 |[link](https://github.com/shivendrra/SmallLanguageModel-project)| [awesomeProject第21期](contents/20240311-20240317/20240311-20240317.md) |
 
 
 ### Stable Diffusion
 
 | 名字 |   地址 | 简介 | 
 | ---- |  ---- | ---- |  
-| ComfyUI教程 |    [link](https://www.bilibili.com/video/BV1K8411y7Ei)  |  [awesomeProject第1期](contents/20231030-20231105.md)    |
-| Stable Diffusion教程|[link](https://course.fast.ai/Lessons/part2.html)| [awesomeProject第15期](contents/202401229-20240204.md) |
+| ComfyUI教程 |    [link](https://www.bilibili.com/video/BV1K8411y7Ei)  |  [awesomeProject第1期](contents/20231030-20231105/20231030-20231105.md)    |
+| Stable Diffusion教程|[link](https://course.fast.ai/Lessons/part2.html)| [awesomeProject第15期](contents/20240129-20240204/20240129-20240204.md) |
 
 
 ### AI工具
 
 | 名字 |   地址 | 简介 | 
 | ---- |  ---- | ---- |  
-|  月之暗面  |    [link](https://kimi.moonshot.cn/)  |  [awesomeProject第1期](contents/20231030-20231105.md)    |
-|  文本转语音  |    [link](https://huggingface.co/spaces/ysharma/OpenAI_TTS_New)  |  [awesomeProject第3期](contents/20231106-20231112.md) |
-| 完蛋！我被 LLM 包围了！ |    [link](https://modelscope.cn/studios/LLMRiddles/LLMRiddles/summary )  |  [awesomeProject第3期](contents/20231106-20231112.md) |
-| GPTs Works |    [link](https://github.com/all-in-aigc/gpts-works)  |  [awesomeProject第4期](contents/20231113-20231119.md) |
-| Awesome GPTs |    [link](https://github.com/lxfater/Awesome-GPTs)  |  [awesomeProject第4期](contents/20231113-20231119.md) |
-| OpenCopilot |    [link](https://github.com/openchatai/OpenCopilot)  |  [awesomeProject第4期](contents/20231113-20231119.md) |
-| EmotiVoice易魔声 😊: 多音色提示控制TTS |    [link](https://github.com/netease-youdao/emotivoice)  |  [awesomeProject第4期](contents/20231113-20231119.md) |
-|Aminer |    [link](www.aminer.cn)  |  [awesomeProject第5期](contents/20231120-20231126.md) |
-| GPTseek|    [link](https://gptseek.com)  |  [awesomeProject第5期](contents/20231120-20231126.md) |
-|Vectorart |    [link](https://vectorart.ai/)  |  [awesomeProject第5期](contents/20231120-20231126.md) |
-|Draw Fast |    [link](https://github.com/tldraw/draw-fast)  |  [awesomeProject第5期](contents/20231120-20231126.md) |
-|UI Sketcher |    [link](https://github.com/pAIrprogio/vscode-ui-sketcher)  |  [awesomeProject第5期](contents/20231120-20231126.md) |
-|bloop |    [link](https://github.com/BloopAI/bloop)  |  [awesomeProject第5期](contents/20231120-20231126.md) |
-|最懂程序员的新一代 AI 搜索引擎 |    [link](https://devv.ai/)  |  [awesomeProject第6期](contents/20231127-20231203.md) |
-|公益学术平台PubScholar |    [link](https://pubscholar.cn/)  |  [awesomeProject第6期](contents/20231127-20231203.md) |
-| 始智AI|    [link](https://www.wisemodel.cn)  |  [awesomeProject第6期](contents/20231127-20231203.md) |
-| Marker|    [link](https://github.com/VikParuchuri/marker)  |  [awesomeProject第6期](contents/20231127-20231203.md) |
-| Resume Matcher|    [link](https://github.com/srbhr/Resume-Matcher)  |  [awesomeProject第6期](contents/20231127-20231203.md) |
-| 发现最新最佳AI产品 |    [link](https://top.aibase.com/)  |  [awesomeProject第7期](contents/20231204-20231210.md) |
-| Awesome Free ChatGPT |    [link](https://github.com/LiLittleCat/awesome-free-chatgpt)  |  [awesomeProject第7期](contents/20231204-20231210.md) |
-| AnythingLLM |    [link](https://github.com/Mintplex-Labs/anything-llm)  |  [awesomeProject第8期](contents/20231211-20231217.md) |
-| Chatd |    [link](https://github.com/BruceMacD/chatd)  |  [awesomeProject第8期](contents/20231211-20231217.md) |
-| Zotero插件 |    [link](https://zotero-chinese.com/)  |  [awesomeProject第9期](contents/20231218-20231224.md) |
-| AI图片处理神器inpaint-web |    [link](https://github.com/lxfater/inpaint-web)  |  [awesomeProject第9期](contents/20231218-20231224.md) |
-| 一键部署大模型 |    [link](https://github.com/ConnectAI-E/Awesome-One-Click-Deployment)  |  [awesomeProject第11期](contents/20240101-20240106.md)|
-|  JARVIS |    [link](https://github.com/microsoft/JARVIS)  |  [awesomeProject第11期](contents/20240101-20240106.md) |
-|  在线交互式教学工具 |    [link](https://github.com/ronreiter/interactive-tutorials?tab=readme-ov-file)  |  [awesomeProject第11期](contents/20240101-20240106.md) |
-| AnyText  |    [link](https://github.com/tyxsspa/AnyText)  |  [awesomeProject第12期](contents/20240107-20240113.md) |
-| 哄哄模拟器Web版 |    [link](https://hong.greatdk.com)  | [awesomeProject第14期](contents/20240122-20240128.md) |
-|秘塔AI搜索 |[link](https://metaso.cn)| [awesomeProject第18期](contents/20240219-20240225.md) |
-| 天工AI搜索|[link](https://search.tiangong.cn/)| [awesomeProject第18期](contents/20240219-20240225.md) |
-|Agent搜索引擎BrainStrom |[link](https://brainstorm.cool)| [awesomeProject第20期](contents/20240304-20240310.md) |
-|搜索引擎Globe |[link](https://explorer.globe.engineer)| [awesomeProject第20期](contents/20240304-20240310.md) |
+|  月之暗面  |    [link](https://kimi.moonshot.cn/)  |  [awesomeProject第1期](contents/20231030-20231105/20231030-20231105.md)    |
+|  文本转语音  |    [link](https://huggingface.co/spaces/ysharma/OpenAI_TTS_New)  |  [awesomeProject第3期](contents/20231106-20231112/20231106-20231112.md) |
+| 完蛋！我被 LLM 包围了！ |    [link](https://modelscope.cn/studios/LLMRiddles/LLMRiddles/summary )  |  [awesomeProject第3期](contents/20231106-20231112/20231106-20231112.md) |
+| GPTs Works |    [link](https://github.com/all-in-aigc/gpts-works)  |  [awesomeProject第4期](contents/20231113-20231119/20231113-20231119.md) |
+| Awesome GPTs |    [link](https://github.com/lxfater/Awesome-GPTs)  |  [awesomeProject第4期](contents/20231113-20231119/20231113-20231119.md) |
+| OpenCopilot |    [link](https://github.com/openchatai/OpenCopilot)  |  [awesomeProject第4期](contents/20231113-20231119/20231113-20231119.md) |
+| EmotiVoice易魔声 😊: 多音色提示控制TTS |    [link](https://github.com/netease-youdao/emotivoice)  |  [awesomeProject第4期](contents/20231113-20231119/20231113-20231119.md) |
+|Aminer |    [link](www.aminer.cn)  |  [awesomeProject第5期](contents/20231120-20231126/20231120-20231126.md) |
+| GPTseek|    [link](https://gptseek.com)  |  [awesomeProject第5期](contents/20231120-20231126/20231120-20231126.md) |
+|Vectorart |    [link](https://vectorart.ai/)  |  [awesomeProject第5期](contents/20231120-20231126/20231120-20231126.md) |
+|Draw Fast |    [link](https://github.com/tldraw/draw-fast)  |  [awesomeProject第5期](contents/20231120-20231126/20231120-20231126.md) |
+|UI Sketcher |    [link](https://github.com/pAIrprogio/vscode-ui-sketcher)  |  [awesomeProject第5期](contents/20231120-20231126/20231120-20231126.md) |
+|bloop |    [link](https://github.com/BloopAI/bloop)  |  [awesomeProject第5期](contents/20231120-20231126/20231120-20231126.md) |
+|最懂程序员的新一代 AI 搜索引擎 |    [link](https://devv.ai/)  |  [awesomeProject第6期](contents/20231127-20231203/20231127-20231203.md) |
+|公益学术平台PubScholar |    [link](https://pubscholar.cn/)  |  [awesomeProject第6期](contents/20231127-20231203/20231127-20231203.md) |
+| 始智AI|    [link](https://www.wisemodel.cn)  |  [awesomeProject第6期](contents/20231127-20231203/20231127-20231203.md) |
+| Marker|    [link](https://github.com/VikParuchuri/marker)  |  [awesomeProject第6期](contents/20231127-20231203/20231127-20231203.md) |
+| Resume Matcher|    [link](https://github.com/srbhr/Resume-Matcher)  |  [awesomeProject第6期](contents/20231127-20231203/20231127-20231203.md) |
+| 发现最新最佳AI产品 |    [link](https://top.aibase.com/)  |  [awesomeProject第7期](contents/20231204-20231210/20231204-20231210.md) |
+| Awesome Free ChatGPT |    [link](https://github.com/LiLittleCat/awesome-free-chatgpt)  |  [awesomeProject第7期](contents/20231204-20231210/20231204-20231210.md) |
+| AnythingLLM |    [link](https://github.com/Mintplex-Labs/anything-llm)  |  [awesomeProject第8期](contents/20231211-20231217/20231211-20231217.md) |
+| Chatd |    [link](https://github.com/BruceMacD/chatd)  |  [awesomeProject第8期](contents/20231211-20231217/20231211-20231217.md) |
+| Zotero插件 |    [link](https://zotero-chinese.com/)  |  [awesomeProject第9期](contents/20231218-20231224/20231218-20231224.md) |
+| AI图片处理神器inpaint-web |    [link](https://github.com/lxfater/inpaint-web)  |  [awesomeProject第9期](contents/20231218-20231224/20231218-20231224.md) |
+| 一键部署大模型 |    [link](https://github.com/ConnectAI-E/Awesome-One-Click-Deployment)  |  [awesomeProject第11期](contents/20240101-20240106/20240101-20240106.md)|
+|  JARVIS |    [link](https://github.com/microsoft/JARVIS)  |  [awesomeProject第11期](contents/20240101-20240106/20240101-20240106.md) |
+|  在线交互式教学工具 |    [link](https://github.com/ronreiter/interactive-tutorials?tab=readme-ov-file)  |  [awesomeProject第11期](contents/20240101-20240106/20240101-20240106.md) |
+| AnyText  |    [link](https://github.com/tyxsspa/AnyText)  |  [awesomeProject第12期](contents/20240107-20240113/20240107-20240113.md) |
+| 哄哄模拟器Web版 |    [link](https://hong.greatdk.com)  | [awesomeProject第14期](contents/20240122-20240128/20240122-20240128.md) |
+|秘塔AI搜索 |[link](https://metaso.cn)| [awesomeProject第18期](contents/20240219-20240225/20240219-20240225.md) |
+| 天工AI搜索|[link](https://search.tiangong.cn/)| [awesomeProject第18期](contents/20240219-20240225/20240219-20240225.md) |
+|Agent搜索引擎BrainStrom |[link](https://brainstorm.cool)| [awesomeProject第20期](contents/20240304-20240310/20240304-20240310.md) |
+|搜索引擎Globe |[link](https://explorer.globe.engineer)| [awesomeProject第20期](contents/20240304-20240310/20240304-20240310.md) |
 
 
 ### 音频
 
 | 名字 |   地址 | 简介 | 
 | ---- |  ---- | ---- |  
-|  video-retalking  |    [link](https://github.com/OpenTalker/video-retalking)  |  [awesomeProject第2期](contents/20231030-20231105.md) |
-|实时语音翻译模型 Seamless |    [link](https://github.com/facebookresearch/seamless_communication)  |  [awesomeProject第6期](contents/20231127-20231203.md) |
+|  video-retalking  |    [link](https://github.com/OpenTalker/video-retalking)  |  [awesomeProject第2期](contents/20231030-20231105/20231030-20231105.md) |
+|实时语音翻译模型 Seamless |    [link](https://github.com/facebookresearch/seamless_communication)  |  [awesomeProject第6期](contents/20231127-20231203/20231127-20231203.md) |
 
 ### 深度学习
 
 | 名字 |   地址 | 简介 | 
 | ---- |  ---- | ---- |  
-|  animatedai |    [link](https://animatedai.github.io/)  |  [awesomeProject第3期](contents/20231106-20231112.md) |
-|  python机器学习资源与工具库大全 |    [link](https://github.com/HanXinzi-AI/awesome-python-machine-learning-resources)  |  [awesomeProject第3期](contents/20231106-20231112.md) |
-|  Jupyter资源与工具库大全 |    [link](https://github.com/HanXinzi-AI/awesome-jupyter-resources)  |  [awesomeProject第3期](contents/20231106-20231112.md) |
-|  自然语言处理项目&工具库&资源大全 |    [link](https://github.com/HanXinzi-AI/awesome-NLP-resources)  |  [awesomeProject第3期](contents/20231106-20231112.md) |
-| 计算机视觉项目&工具库&资源大全 |    [link](https://github.com/HanXinzi-AI/awesome-computer-vision-resources)  |  [awesomeProject第3期](contents/20231106-20231112.md) |
-|ML-Papers-of-the-Week  | [link](https://github.com/dair-ai/ML-Papers-of-the-Week)  | [awesomeProject第14期](contents/20240122-20240128.md) |
-| 几何图神经网络综述：数据结构、模型和应用|[link](https://github.com/RUC-GLAD/GGNN4Science)| [awesomeProject第20期](contents/20240304-20240310.md) |
+|  animatedai |    [link](https://animatedai.github.io/)  |  [awesomeProject第3期](contents/20231106-20231112/20231106-20231112.md) |
+|  python机器学习资源与工具库大全 |    [link](https://github.com/HanXinzi-AI/awesome-python-machine-learning-resources)  |  [awesomeProject第3期](contents/20231106-20231112/20231106-20231112.md) |
+|  Jupyter资源与工具库大全 |    [link](https://github.com/HanXinzi-AI/awesome-jupyter-resources)  |  [awesomeProject第3期](contents/20231106-20231112/20231106-20231112.md) |
+|  自然语言处理项目&工具库&资源大全 |    [link](https://github.com/HanXinzi-AI/awesome-NLP-resources)  |  [awesomeProject第3期](contents/20231106-20231112/20231106-20231112.md) |
+| 计算机视觉项目&工具库&资源大全 |    [link](https://github.com/HanXinzi-AI/awesome-computer-vision-resources)  |  [awesomeProject第3期](contents/20231106-20231112/20231106-20231112.md) |
+|ML-Papers-of-the-Week  | [link](https://github.com/dair-ai/ML-Papers-of-the-Week)  | [awesomeProject第14期](contents/20240122-20240128/20240122-20240128.md) |
+| 几何图神经网络综述：数据结构、模型和应用|[link](https://github.com/RUC-GLAD/GGNN4Science)| [awesomeProject第20期](contents/20240304-20240310/20240304-20240310.md) |
 
 
 
@@ -233,21 +233,21 @@
 
 | 名字 |   地址 | 简介 | 
 | ---- |  ---- | ---- |
-| LaVie(Text2Video Model)|    [link](https://github.com/Vchitect/LaVie)  |  [awesomeProject第6期](contents/20231127-20231203.md) |
-|SEINE(Image2Video  Model) |    [link](https://github.com/Vchitect/SEINE)  |  [awesomeProject第6期](contents/20231127-20231203.md) |
-| Vary |    [link](https://github.com/Ucas-HaoranWei/Vary)  |  [awesomeProject第8期](contents/20231211-20231217.md) |
-|  Awesome Multimodal Large Language Models |    [link](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)  |  [awesomeProject第11期](contents/20240101-20240106.md) |
+| LaVie(Text2Video Model)|    [link](https://github.com/Vchitect/LaVie)  |  [awesomeProject第6期](contents/20231127-20231203/20231127-20231203.md) |
+|SEINE(Image2Video  Model) |    [link](https://github.com/Vchitect/SEINE)  |  [awesomeProject第6期](contents/20231127-20231203/20231127-20231203.md) |
+| Vary |    [link](https://github.com/Ucas-HaoranWei/Vary)  |  [awesomeProject第8期](contents/20231211-20231217/20231211-20231217.md) |
+|  Awesome Multimodal Large Language Models |    [link](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)  |  [awesomeProject第11期](contents/20240101-20240106/20240101-20240106.md) |
 
 
 ## 其他
 | 名字 |   地址 | 简介 | 
 | ---- |  ---- | ---- |
-| AI副业赚钱资讯合集|    [link](https://github.com/bleedline/aimoneyhunter)  |  [awesomeProject第8期](contents/20231211-20231217.md) |
-| Big ideas in tech in 2024 |    [link](https://gamma.app/public/Big-Ideas-in-tech-in-2024-by-A16Z-phquomraxnzc1fs?mode=doc)  |  [awesomeProject第9期](contents/20231218-20231224.md) |
-| 用 RAGAs评估 RAG应用 [译] |    [link](https://baoyu.io/translations/rag/evaluating-rag-applications-with-ragas?continueFlag=5d10d34c97637bebcfeba6470c0f0d9b)  |  [awesomeProject第9期](contents/20231218-20231224.md) |
-| Sam Altman的创业手册|[link](https://jxp73q7qjsg.feishu.cn/docx/WCNZdKDa4o2eUrxK5ElcfBXEnah?continueFlag=3a6d0325757abca6e8cbb95b53b664d3)| [awesomeProject第21期](contents/20240311-20240317.md) |
-|全能的网络爬虫框架Botasaurus |[link](https://github.com/omkarcloud/botasaurus)| [awesomeProject第21期](contents/20240311-20240317.md) |
+| AI副业赚钱资讯合集|    [link](https://github.com/bleedline/aimoneyhunter)  |  [awesomeProject第8期](contents/20231211-20231217/20231211-20231217.md) |
+| Big ideas in tech in 2024 |    [link](https://gamma.app/public/Big-Ideas-in-tech-in-2024-by-A16Z-phquomraxnzc1fs?mode=doc)  |  [awesomeProject第9期](contents/20231218-20231224/20231218-20231224.md) |
+| 用 RAGAs评估 RAG应用 [译] |    [link](https://baoyu.io/translations/rag/evaluating-rag-applications-with-ragas?continueFlag=5d10d34c97637bebcfeba6470c0f0d9b)  |  [awesomeProject第9期](contents/20231218-20231224/20231218-20231224.md) |
+| Sam Altman的创业手册|[link](https://jxp73q7qjsg.feishu.cn/docx/WCNZdKDa4o2eUrxK5ElcfBXEnah?continueFlag=3a6d0325757abca6e8cbb95b53b664d3)| [awesomeProject第21期](contents/20240311-20240317/20240311-20240317.md) |
+|全能的网络爬虫框架Botasaurus |[link](https://github.com/omkarcloud/botasaurus)| [awesomeProject第21期](contents/20240311-20240317/20240311-20240317.md) |
 
 ## 公众号
 
-![QR](contents/images/QR.png)
+![QR](contents/QR.png)
