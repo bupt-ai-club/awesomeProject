@@ -13,7 +13,6 @@ contents_directory = os.path.join(os.path.dirname(current_directory), "docs", "c
 
 # Get the names of all directories in the current directory
 directories = [d for d in os.listdir(contents_directory) if os.path.isdir(os.path.join(contents_directory, d))]
-print(directories)
 
 # Regular expression pattern to match directory names in the format YYYYMMDD-YYYYMMDD
 pattern = re.compile(r'(\d{8})-(\d{8})')
