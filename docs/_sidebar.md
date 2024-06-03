@@ -29,4 +29,4 @@
     * [Awesome Project第28期](contents/20240429-20240505/20240429-20240505.md)
     * [Awesome Project第29期](contents/20240506-20240512/20240506-20240512.md)
     * [Awesome Project第30期](contents/20240513-20240519/20240513-20240519.md)
-    * [Awesome Project第30期](contents/20240601-20240607/20240601-20240607.md)
+
