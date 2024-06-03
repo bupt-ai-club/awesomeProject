@@ -1,20 +1,18 @@
 # Awesome Project
 
-平时总会看到一些有意思的AI相关项目，但每次看完就忘记了，后面想找的时候又找不到，没有一个地方来汇总，以便在后面想看的时候能随时找到。
-为了解决这个问题，笔者将近期看到的AI相关的项目，在这里进行汇总，并且每周会在公众号做一次汇总和分享，而且在后续有时间的时候会对汇总的
-项目做一些实践和解读，同时也欢迎感兴趣的同学一起加入~
+随着大模型的兴起，各类AI项目层出不穷，本项目以人工智能领域知识共享为目的，收集一些高质量的开源AI项目，帮助更多人了解相关东西，并且每周会在公众号做一次汇总和分享，而且在后续有时间的时候会对汇总的项目做一些实践和解读，同时也欢迎感兴趣的同学一起加入~
 
-## 公众号
+## 公众号（WeChat Official Account）
 
 ![QR](contents/QR.png)
 
-## 专题
+## 专题（Special Topic）
 
 - [科研工具专题](contents/20231225-20231231/20231225-20231231.md)
 
 
-## 汇总
-| Name  | 简介 | 类型| 来源 |
+## 汇总(Summary)
+| Name  | description | Tag| Source |
 | ---- |  ---- | ---- |---- |
 | [Prompt Engineering Guide](https://www.promptingguide.ai/zh) |提示工程指南（Prompt Engineering Guide）是由 DAIR.AI 发起的项目，分别从提示工程简介、提示技术、提示应用、模型、风险和误用、论文、工具和库等方面来帮助用户更好地了解大型语言模型的能力和局限性。  |LLM |[Awesome Project第2期](contents/20231030-20231105/20231030-20231105.md) |
 | [prompt-engineering-for-developers](https://datawhalechina.github.io/prompt-engineering-for-developers/) |本项目是一个面向开发者的 LLM 入门教程，由Datawhale组织基于吴恩达老师大模型系列课程内容，将原课程内容翻译为中文并复现其范例代码，实现中文 Prompt，指导国内开发者如何基于 LLM 快速、高效开发具备强大能力的应用程序。  |LLM |[Awesome Project第2期](contents/20231030-20231105/20231030-20231105.md) |
