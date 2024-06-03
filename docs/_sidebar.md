@@ -9,6 +9,7 @@
     * [Awesome Project第7期](contents/20231204-20231210/20231204-20231210.md)
     * [Awesome Project第8期](contents/20231211-20231217/20231211-20231217.md)
     * [Awesome Project第9期](contents/20231218-20231224/20231218-20231224.md)
+    * [Awesome Project第10期](contents/20231225-20231231/20231225-20231231.md)
     * [Awesome Project第11期](contents/20240101-20240106/20240101-20240106.md)
     * [Awesome Project第12期](contents/20240107-20240113/20240107-20240113.md)
     * [Awesome Project第13期](contents/20240114-20240120/20240114-20240120.md)
